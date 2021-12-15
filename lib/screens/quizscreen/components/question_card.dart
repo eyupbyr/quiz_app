@@ -15,6 +15,9 @@ class QuestionCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    List<String> answers = question.answers.toString().split("|");
+    answers.shuffle();
+    
     QuestionController _questionController = Get.put(QuestionController());
     return Container(
       margin: EdgeInsets.symmetric(horizontal: 20),
@@ -34,11 +37,11 @@ class QuestionCard extends StatelessWidget {
           ),
           SizedBox(height: 10),
           ...List.generate(
-            question.options.length, 
+            answers.length, 
             (index) => Option(
               index: index,
-              text: question.options[index],
-              press: () => _questionController.checkAnswer(question, index),
+              text: answers[index],
+              press: () => _questionController.checkAnswer(question, answers[index]),
             )
           )
         ]

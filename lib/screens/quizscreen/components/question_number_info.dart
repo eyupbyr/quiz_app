@@ -21,8 +21,7 @@ class QuestionNumberInfo extends StatelessWidget {
               .copyWith(color: Color(0xFF8B94BC)),
           children: [
             TextSpan(
-              //text: "/${_questionController.questions.length}",
-              text: "/${20}",//temporary
+              text: "/${_questionController.questionCount}",
               style: Theme.of(context).textTheme.headline6!.copyWith(color: Color(0xFF8B94BC))
             )
           ]

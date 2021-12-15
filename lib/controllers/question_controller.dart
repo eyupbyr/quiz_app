@@ -14,17 +14,29 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   late PageController _pageController;
   PageController get pageController => this._pageController;
 
+  //these will be taken as input
+  late int _questionCount;
+  int get questionCount => this._questionCount;
+  void set questionCount(int value) => this._questionCount = value; 
+
+  late int _countdownSeconds;
+  int get countdownSeconds => this._countdownSeconds;
+
+  late String _difficulty;
+  String get difficulty => this._difficulty;
+  //-----------------------------------------------------
+
   RxInt _questionNumber = 1.obs;
   RxInt get questionNumber => this._questionNumber;
 
   bool _isAnswered = false;
   bool get isAnswered => this._isAnswered;
 
-  late int _correctAnswerIndex;
-  int get correctAnswerIndex => this._correctAnswerIndex;
+  late String _correctAnswer;
+  String get correctAnswer => this._correctAnswer;
 
-  late int _selectedAnswerIndex;
-  int get selectedAnswerIndex => this._selectedAnswerIndex;
+  late String _selectedAnswer;
+  String get selectedAnswer => this._selectedAnswer;
 
   int _correctAnswerCount = 0;
   int get correctAnswerCount => this._correctAnswerCount;
@@ -57,12 +69,12 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
     _pageController.dispose();
   }
 
-  void checkAnswer(Question question, int selectedIndex) {
+  void checkAnswer(Question question, String selectedAnswer) {
       _isAnswered = true;
-      _correctAnswerIndex = 1;//question.answer;
-      _selectedAnswerIndex = selectedIndex;
+      _correctAnswer = question.correctAnswer;
+      _selectedAnswer = selectedAnswer;
 
-      if(_correctAnswerIndex == _selectedAnswerIndex) 
+      if(_correctAnswer == _selectedAnswer) 
         _correctAnswerCount++;
 
       _animationController.stop();
@@ -74,10 +86,11 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   void nextQuestion() {
     //if the question is not the last question
-    if (_questionNumber.value != 20) {
-      _isAnswered = false;
+    if (_questionNumber.value != _questionCount) {
       _pageController.nextPage(
           duration: Duration(milliseconds: 500), curve: Curves.ease);
+
+      _isAnswered = false;
 
       // reset the countdown counter and start again
       _animationController.reset();
@@ -92,12 +105,4 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   void updateQuestionNumber(int index){
     _questionNumber.value = index + 1;
   }
-
-  //!!! MOVE THIS TO ANOTHER CONTROLLER
-  void resetEverything() {
-    Get.to(() => MainScreen());
-    Get.deleteAll();
-  }
-
-
 }

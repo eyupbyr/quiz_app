@@ -23,11 +23,11 @@ class Option extends StatelessWidget {
 
         Color getTheRightColor() {
           if(questionController.isAnswered) {
-            if(index == questionController.correctAnswerIndex) {
+            if(text == questionController.correctAnswer) {
               return GreenColor;
             } 
-            else if(index == questionController.selectedAnswerIndex 
-                            && questionController.selectedAnswerIndex != questionController.correctAnswerIndex) {
+            else if(text == questionController.selectedAnswer 
+                            && questionController.selectedAnswer != questionController.correctAnswer) {
                 return RedColor;
             }
           }
@@ -39,7 +39,7 @@ class Option extends StatelessWidget {
         }
 
         return InkWell(
-          onTap: press,
+          onTap: questionController.isAnswered ? null : press,
           child: Container(
             margin: EdgeInsets.only(top: 15),
             padding: EdgeInsets.all(12),

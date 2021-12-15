@@ -28,8 +28,7 @@ class ScoreScreen extends StatelessWidget {
               ),
               Spacer(),
               Text(
-                //"${_questionController.correctAnswerCount * 10}/${_questionController.questions.length * 10}",
-                "${_questionController.correctAnswerCount * 10}/${20 * 10}",//temporary
+                "${_questionController.correctAnswerCount * 10}/${_questionController.questionCount * 10}",
                 style: Theme.of(context)
                     .textTheme
                     .headline4!
@@ -37,7 +36,7 @@ class ScoreScreen extends StatelessWidget {
               ),
               Spacer(flex: 2),
               InkWell(
-                onTap: () => _questionController.resetEverything(), //change here
+                onTap: () => {},//_questionController.resetEverything(), //change here
                 child: Container(
                   height: 85,
                   width: 150,

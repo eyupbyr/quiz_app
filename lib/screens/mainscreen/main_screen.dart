@@ -1,10 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
+import 'package:quiz_app/db/dao/question_dao.dart';
+import 'package:quiz_app/models/Questions.dart';
 
 import '../mainscreen/components/category.dart';
 
 class MainScreen extends StatelessWidget {
+
+  final QuestionDao questionDao;
+
+  const MainScreen({
+    required this.questionDao,
+  }) : super();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -33,21 +42,21 @@ class MainScreen extends StatelessWidget {
                         Row(
                           mainAxisAlignment: MainAxisAlignment.start,
                           children: [
-                            Category(),
+                            Category(questionDao: questionDao),
                           ],
                         ),
                         SizedBox(height: 30),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           children: [
-                            Category(),
+                            Category(questionDao: questionDao),
                           ],
                         ),
                         SizedBox(height: 30),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.start,
                           children: [
-                            Category(),
+                            Category(questionDao: questionDao),
                           ],
                         ),
                       ],
