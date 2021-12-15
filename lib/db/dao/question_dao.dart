@@ -12,6 +12,10 @@ abstract class QuestionDao {
   @Query('SELECT * FROM Question WHERE id = :id')
   Stream<Question?> findQuestionById(int id);
 
+  @Query('SELECT * FROM Question WHERE category = :category AND difficulty = :difficulty' + 
+  ' ORDER BY RANDOM() LIMIT :numberOfQuestions')
+  Stream<List<Question>> selectQuizQuestions(String category, String difficulty, int numberOfQuestions);
+
   @insert
   Future<void> insertQuestion(Question question);
 

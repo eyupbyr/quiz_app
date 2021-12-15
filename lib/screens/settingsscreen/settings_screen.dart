@@ -3,12 +3,16 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
 import 'package:quiz_app/controllers/settings_controller.dart';
+import 'package:quiz_app/db/dao/question_dao.dart';
 import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 import 'package:quiz_app/screens/quizscreen/quiz_screen.dart';
 
 import '../../constants.dart';
 
 class SettingsScreen extends StatelessWidget {
+  final QuestionDao questionDao;
+  SettingsScreen(this.questionDao, {QuestionDao? dao});
+  
   @override
   Widget build(BuildContext context) {
     //QuestionController _questionController = Get.put(QuestionController());
@@ -130,7 +134,7 @@ class SettingsScreen extends StatelessWidget {
                           color: Colors.blueGrey,
                           borderRadius: BorderRadius.all(Radius.circular(500))
                         ),
-                        child: ElevatedButton(onPressed: () => {}, child: Text("Play"),
+                        child: ElevatedButton(onPressed: () { Get.to(() => QuizScreen(questionDao));}, child: Text("Play"),
                         )
                       ),
                     ),

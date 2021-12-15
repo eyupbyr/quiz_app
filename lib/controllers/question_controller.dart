@@ -1,6 +1,7 @@
 import 'package:flutter/animation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:quiz_app/controllers/settings_controller.dart';
 import 'package:quiz_app/models/Questions.dart';
 import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 import 'package:quiz_app/screens/scorescreen/score_screen.dart';
@@ -45,7 +46,7 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   void onInit() {
     _animationController = 
       AnimationController(
-        duration: Duration(seconds: 30), 
+        duration: Duration(seconds: int.parse(Get.find<SettingsController>().countdown)), 
         vsync: this
       );
     _animation = Tween<double>(begin: 0,end: 1).animate(_animationController)

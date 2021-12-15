@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
+import 'package:quiz_app/controllers/settings_controller.dart';
 
 class Countdown extends StatelessWidget {
   const Countdown({
@@ -10,6 +11,7 @@ class Countdown extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SettingsController _settingsController = Get.put(SettingsController());
     return Container(
       width: double.infinity,
       height: 40,
@@ -45,7 +47,7 @@ class Countdown extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
-                        "${(30 - controller.animation.value * 30).round()} sec",
+                        "${(int.parse(_settingsController.countdown) - controller.animation.value * int.parse(_settingsController.countdown)).round()} sec",
                         style: Theme.of(context).textTheme.headline6!.copyWith(color: Colors.white, fontWeight: FontWeight.bold),
                       ),
                       SvgPicture.asset("assets/icons/clock.svg")

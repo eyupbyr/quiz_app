@@ -166,6 +166,24 @@ class _$QuestionDao extends QuestionDao {
   }
 
   @override
+  Stream<List<Question>> selectQuizQuestions(
+      String category, String difficulty, int numberOfQuestions) {
+    return _queryAdapter.queryListStream(
+        'SELECT * FROM Question WHERE category = ?1 AND difficulty = ?2 ORDER BY RANDOM() LIMIT ?3',
+        mapper: (Map<String, Object?> row) => Question(
+            id: row['id'] as int?,
+            category: row['category'] as String,
+            type: row['type'] as String,
+            difficulty: row['difficulty'] as String,
+            question: row['question'] as String,
+            correctAnswer: row['correctAnswer'] as String,
+            answers: row['answers'] as String),
+        arguments: [category, difficulty, numberOfQuestions],
+        queryableName: 'Question',
+        isView: false);
+  }
+
+  @override
   Future<Question?> deleteAllQuestion() async {
     return _queryAdapter.query('DELETE FROM Question',
         mapper: (Map<String, Object?> row) => Question(

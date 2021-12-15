@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
+import 'package:quiz_app/controllers/settings_controller.dart';
 import 'package:quiz_app/db/dao/question_dao.dart';
 import 'package:quiz_app/screens/quizscreen/components/question_card.dart';
 import 'components/countdown.dart';
@@ -22,6 +23,7 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   Widget build(BuildContext context) {
     QuestionController _questionController = Get.put(QuestionController());
+    SettingsController _settingsController = Get.put(SettingsController());
     return Scaffold(
       body: Stack(
         children: [
@@ -29,12 +31,14 @@ class _QuizScreenState extends State<QuizScreen> {
           width: double.infinity),
           SafeArea(
             child: StreamBuilder<Object>(
-              stream: questionDao.findAllQuestionsAsStream(),
+              stream: questionDao.selectQuizQuestions(_settingsController.category, _settingsController.difficulty.toLowerCase(), int.parse(_settingsController.numberOfQuestions)),
               builder: (context, AsyncSnapshot  snapshot) {
                 if (!snapshot.hasData) return Container();
 
                 final questions = snapshot.data;
                 _questionController.questionCount = questions.length;
+
+                print(questions);
 
                 return Column(
                   crossAxisAlignment: CrossAxisAlignment.start,

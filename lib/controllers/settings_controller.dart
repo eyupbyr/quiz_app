@@ -16,6 +16,9 @@ class SettingsController extends GetxController {
   String _numberOfQuestions = '20';
   String get numberOfQuestions => this._numberOfQuestions;
 
+  late String _category;
+  String get category => this._category;
+
   void setSelectedDifficulty(String value){
      _difficulty = value;
    }
@@ -26,6 +29,10 @@ class SettingsController extends GetxController {
 
    void setSelectedNumberOfQuestions(String value){
      _numberOfQuestions = value;
+   }
+
+   void setSelectedCategory(String value){
+     _category = value;
    }
 
   @override

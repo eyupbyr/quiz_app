@@ -42,21 +42,21 @@ class MainScreen extends StatelessWidget {
                         Row(
                           mainAxisAlignment: MainAxisAlignment.start,
                           children: [
-                            Category(questionDao: questionDao),
+                            Category(questionDao: questionDao, categoryName: 'General Knowledge',),
                           ],
                         ),
                         SizedBox(height: 30),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           children: [
-                            Category(questionDao: questionDao),
+                            Category(questionDao: questionDao, categoryName: 'Sports',),
                           ],
                         ),
                         SizedBox(height: 30),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.start,
                           children: [
-                            Category(questionDao: questionDao),
+                            Category(questionDao: questionDao, categoryName: 'Movies',),
                           ],
                         ),
                       ],
