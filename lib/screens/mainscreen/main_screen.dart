@@ -21,7 +21,7 @@ class MainScreen extends StatelessWidget {
                     SizedBox(height: 50,),
                     Text(
                       "QuizApp",
-                      style: Theme.of(context).textTheme.headline4.copyWith(color: Colors.white, fontWeight: FontWeight.bold),
+                      style: Theme.of(context).textTheme.headline4!.copyWith(color: Colors.white, fontWeight: FontWeight.bold),
                     ),
                     SizedBox(height: 80,),
                     Text(

@@ -6,26 +6,13 @@ import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 import 'package:quiz_app/screens/scorescreen/score_screen.dart';
 
 class QuestionController extends GetxController with GetSingleTickerProviderStateMixin {
-  AnimationController _animationController;
-  Animation _animation;
+  late AnimationController _animationController;
+  late Animation _animation;
 
   Animation get animation => this._animation;
 
-  PageController _pageController;
+  late PageController _pageController;
   PageController get pageController => this._pageController;
-
-  List<Question> _questions = sample_list.
-      map(
-        (question) => Question(
-          id: question['id'],
-          question: question['question'],
-          options: question['options'],
-          answer: question['answer_index']
-        )
-      )
-  .toList();
-
-  List<Question> get questions => this._questions;
 
   RxInt _questionNumber = 1.obs;
   RxInt get questionNumber => this._questionNumber;
@@ -33,10 +20,10 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   bool _isAnswered = false;
   bool get isAnswered => this._isAnswered;
 
-  int _correctAnswerIndex;
+  late int _correctAnswerIndex;
   int get correctAnswerIndex => this._correctAnswerIndex;
 
-  int _selectedAnswerIndex;
+  late int _selectedAnswerIndex;
   int get selectedAnswerIndex => this._selectedAnswerIndex;
 
   int _correctAnswerCount = 0;
@@ -72,7 +59,7 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   void checkAnswer(Question question, int selectedIndex) {
       _isAnswered = true;
-      _correctAnswerIndex = question.answer;
+      _correctAnswerIndex = 1;//question.answer;
       _selectedAnswerIndex = selectedIndex;
 
       if(_correctAnswerIndex == _selectedAnswerIndex) 
@@ -87,7 +74,7 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   void nextQuestion() {
     //if the question is not the last question
-    if (_questionNumber.value != _questions.length) {
+    if (_questionNumber.value != 20) {
       _isAnswered = false;
       _pageController.nextPage(
           duration: Duration(milliseconds: 500), curve: Curves.ease);

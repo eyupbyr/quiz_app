@@ -5,7 +5,7 @@ import 'package:quiz_app/controllers/question_controller.dart';
 
 class Countdown extends StatelessWidget {
   const Countdown({
-    Key key,
+    Key? key,
   }) : super(key: key);
 
   @override
@@ -46,7 +46,7 @@ class Countdown extends StatelessWidget {
                     children: [
                       Text(
                         "${(30 - controller.animation.value * 30).round()} sec",
-                        style: Theme.of(context).textTheme.headline6.copyWith(color: Colors.white, fontWeight: FontWeight.bold),
+                        style: Theme.of(context).textTheme.headline6!.copyWith(color: Colors.white, fontWeight: FontWeight.bold),
                       ),
                       SvgPicture.asset("assets/icons/clock.svg")
                     ],

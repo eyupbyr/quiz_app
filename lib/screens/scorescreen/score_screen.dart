@@ -23,15 +23,16 @@ class ScoreScreen extends StatelessWidget {
                 "Score",
                 style: Theme.of(context)
                     .textTheme
-                    .headline3
+                    .headline3!
                     .copyWith(color: SecondaryColor),
               ),
               Spacer(),
               Text(
-                "${_questionController.correctAnswerCount * 10}/${_questionController.questions.length * 10}",
+                //"${_questionController.correctAnswerCount * 10}/${_questionController.questions.length * 10}",
+                "${_questionController.correctAnswerCount * 10}/${20 * 10}",//temporary
                 style: Theme.of(context)
                     .textTheme
-                    .headline4
+                    .headline4!
                     .copyWith(color: SecondaryColor),
               ),
               Spacer(flex: 2),

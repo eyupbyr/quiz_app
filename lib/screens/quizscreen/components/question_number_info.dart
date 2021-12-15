@@ -4,8 +4,8 @@ import 'package:quiz_app/controllers/question_controller.dart';
 
 class QuestionNumberInfo extends StatelessWidget {
   const QuestionNumberInfo({
-    Key key,
-    @required QuestionController questionController,
+    Key? key,
+    required QuestionController questionController,
   }) : _questionController = questionController, super(key: key);
 
   final QuestionController _questionController;
@@ -17,12 +17,13 @@ class QuestionNumberInfo extends StatelessWidget {
           text: "Question ${_questionController.questionNumber}",
           style: Theme.of(context)
               .textTheme
-              .headline5
+              .headline5!
               .copyWith(color: Color(0xFF8B94BC)),
           children: [
             TextSpan(
-              text: "/${_questionController.questions.length}",
-              style: Theme.of(context).textTheme.headline6.copyWith(color: Color(0xFF8B94BC))
+              //text: "/${_questionController.questions.length}",
+              text: "/${20}",//temporary
+              style: Theme.of(context).textTheme.headline6!.copyWith(color: Color(0xFF8B94BC))
             )
           ]
         )
