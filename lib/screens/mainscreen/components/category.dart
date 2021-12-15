@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/db/dao/question_dao.dart';
 import 'package:quiz_app/screens/quizscreen/quiz_screen.dart';
+import 'package:quiz_app/screens/settingsscreen/settings_screen.dart';
 
 class Category extends StatelessWidget {
 
@@ -14,7 +15,7 @@ class Category extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () => Get.to(() => QuizScreen(questionDao)),
+      onTap: () => Get.to(() => SettingsScreen()),
       child: Container(
         decoration: BoxDecoration(
           color: Colors.blueGrey,
