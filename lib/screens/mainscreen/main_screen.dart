@@ -10,7 +10,8 @@ class MainScreen extends StatelessWidget {
     return Scaffold(
       body: Stack(
         children: [
-          SvgPicture.asset("assets/icons/bg.svg", fit: BoxFit.fill),
+          SvgPicture.asset("assets/icons/bg.svg", fit: BoxFit.fill ,height: double.infinity,
+          width: double.infinity),
           SafeArea(
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 25),

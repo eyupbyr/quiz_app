@@ -14,7 +14,8 @@ class QuizScreen extends StatelessWidget {
     return Scaffold(
       body: Stack(
         children: [
-          SvgPicture.asset("assets/icons/bg.svg", fit: BoxFit.fill),
+          SvgPicture.asset("assets/icons/bg.svg", fit: BoxFit.fill ,height: double.infinity,
+          width: double.infinity),
           SafeArea(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
