@@ -2,6 +2,7 @@ import 'package:flutter/animation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/settings_controller.dart';
+import 'package:quiz_app/db/dao/question_dao.dart';
 import 'package:quiz_app/models/Questions.dart';
 import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 import 'package:quiz_app/screens/scorescreen/score_screen.dart';
@@ -41,6 +42,10 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   int _correctAnswerCount = 0;
   int get correctAnswerCount => this._correctAnswerCount;
+
+  late QuestionDao _questionDao;
+  QuestionDao get questionDao => this._questionDao;
+  void set questionDao(QuestionDao value) => this._questionDao = value; 
 
   @override
   void onInit() {
@@ -105,5 +110,11 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   void updateQuestionNumber(int index){
     _questionNumber.value = index + 1;
+  }
+
+  void resetEverything()
+  {
+    Get.deleteAll();
+    Get.to(MainScreen(questionDao: questionDao));
   }
 }

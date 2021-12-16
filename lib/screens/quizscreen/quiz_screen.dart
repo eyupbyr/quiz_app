@@ -23,6 +23,7 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   Widget build(BuildContext context) {
     QuestionController _questionController = Get.put(QuestionController());
+    _questionController.questionDao = questionDao;
     SettingsController _settingsController = Get.put(SettingsController());
     return Scaffold(
       body: Stack(
