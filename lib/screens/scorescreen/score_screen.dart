@@ -20,23 +20,23 @@ class ScoreScreen extends StatelessWidget {
             padding: const EdgeInsets.symmetric(horizontal: 55),
             child: Column(
               children: [
-                SizedBox(height: 130,),
+                Spacer(flex: 3,),
                 Text(
                   "Score",style: Theme.of(context).textTheme.headline3!.copyWith(color: SecondaryColor),
                 ),
-                SizedBox(height: 70,),
+                Spacer(flex: 2,),
                 Text(
                   "${(_questionController.correctAnswerCount / _questionController.questionCount * 100).toStringAsFixed(2)}%",
                   style: Theme.of(context).textTheme.headline4!.copyWith(color: SecondaryColor),
                   textAlign: TextAlign.center,
                 ),
-                SizedBox(height: 30,),
+                Spacer(flex: 1,),
                 Text(
                   "You answered ${_questionController.correctAnswerCount} correct from ${_questionController.questionCount} questions.",
                   style: Theme.of(context).textTheme.headline5!.copyWith(color: SecondaryColor),
                   textAlign: TextAlign.center,
                 ),
-                SizedBox(height: 110,),
+                Spacer(flex: 3,),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
@@ -68,6 +68,7 @@ class ScoreScreen extends StatelessWidget {
                     ),
                   ],
                 ),
+                Spacer(flex: 2,),
               ],
             ),
           )

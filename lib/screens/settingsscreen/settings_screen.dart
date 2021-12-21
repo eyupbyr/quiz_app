@@ -31,14 +31,14 @@ class SettingsScreen extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    SizedBox(height: 70),
+                    Spacer(flex: 2,),
                     Text(
                       "Quiz Settings",
                       style: Theme.of(context).textTheme.headline4!.copyWith(color: Colors.white, fontWeight: FontWeight.bold),
                     ),
                     SizedBox(height: 10),
                     Divider(thickness: 2,),
-                    SizedBox(height: 60),
+                    Spacer(flex: 2,),
                     Row(
                       children: [
                         Text(
@@ -67,7 +67,7 @@ class SettingsScreen extends StatelessWidget {
                         ),
                       ],
                     ),
-                    SizedBox(height: 40),
+                    Spacer(flex: 1,),
                     Row(
                       children: [
                         Text(
@@ -96,7 +96,7 @@ class SettingsScreen extends StatelessWidget {
                         ),
                       ],
                     ),
-                    SizedBox(height: 40),
+                    Spacer(flex: 1,),
                     Row(
                       children: [
                         Text(
@@ -125,7 +125,7 @@ class SettingsScreen extends StatelessWidget {
                         ),
                       ],
                     ),
-                    SizedBox(height: 80),
+                    Spacer(flex: 2,),
                     Center(
                       child: Container(
                         width: 150,
