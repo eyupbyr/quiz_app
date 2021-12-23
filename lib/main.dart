@@ -23,8 +23,12 @@ Future<void> main() async {
   var jsonText = await rootBundle.loadString('assets/data/questions.json');
   data = json.decode(jsonText);
 
+  List<Question> questions = [];
   questionDao.deleteAllQuestion();
-  data.forEach((element) => questionDao.insertQuestion(Question.fromJson(element)));
+  data.forEach((element) => questions.add(Question.fromJson(element)));
+
+  questionDao.insertAllQuestion(questions);
+  questions.clear();
   
   runApp(MyApp(questionDao));
 }
@@ -45,15 +49,4 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
-}
-
-Future<String> loadJsonData() async {
-    List data;
-    var jsonText = await rootBundle.loadString('assets/data/questions.json');
-    data = json.decode(jsonText);
-    print(data[1]['category']);
-    Question test;
-    test = Question.fromJson(data[1]);
-    print(test.difficulty);
-    return 'success';
 }

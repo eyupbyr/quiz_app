@@ -200,4 +200,10 @@ class _$QuestionDao extends QuestionDao {
   Future<void> insertQuestion(Question question) async {
     await _questionInsertionAdapter.insert(question, OnConflictStrategy.abort);
   }
+
+  @override
+  Future<void> insertAllQuestion(List<Question> question) async {
+    await _questionInsertionAdapter.insertList(
+        question, OnConflictStrategy.abort);
+  }
 }

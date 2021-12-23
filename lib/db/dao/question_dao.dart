@@ -19,6 +19,9 @@ abstract class QuestionDao {
   @insert
   Future<void> insertQuestion(Question question);
 
+  @insert
+  Future<void> insertAllQuestion(List<Question> question);
+
   @Query('DELETE FROM Question')
   Future<Question?> deleteAllQuestion();
 }
