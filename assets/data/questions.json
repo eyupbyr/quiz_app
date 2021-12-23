@@ -76,7 +76,7 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"How would one say goodbye in Spanish?",
-      "correct_answer":"Adi&oacute;s",
+      "correct_answer":"Adiós",
       "incorrect_answers":[
          " Hola",
          "Au Revoir",
@@ -99,7 +99,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+      "question":"What does the 'S' stand for in the abbreviation SIM, as in SIM card? ",
       "correct_answer":"Subscriber",
       "incorrect_answers":[
          "Single",
@@ -111,7 +111,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+      "question":"What word represents the letter 'T' in the NATO phonetic alphabet?",
       "correct_answer":"Tango",
       "incorrect_answers":[
          "Target",
@@ -171,7 +171,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+      "question":"What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
       "correct_answer":"Gorilla",
       "incorrect_answers":[
          "Tiger",
@@ -198,7 +198,7 @@
       "question":"What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
       "correct_answer":"Spruce Goose",
       "incorrect_answers":[
-         "Noah&#039;s Ark",
+         "Noah's Ark",
          "Fat Man",
          "Trojan Horse"
       ]
@@ -219,11 +219,11 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the French word for &quot;hat&quot;?",
+      "question":"What is the French word for 'hat'?",
       "correct_answer":"Chapeau",
       "incorrect_answers":[
          "Bonnet",
-         " &Eacute;charpe",
+         " écharpe",
          " Casque"
       ]
    },
@@ -260,14 +260,14 @@
       "incorrect_answers":[
          "Pupcia",
          "Polszka",
-         "P&oacute;land"
+         "Póland"
       ]
    },
    {
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+      "question":"The New York Times slogan is, “All the News That’s Fit to…”",
       "correct_answer":"Print",
       "incorrect_answers":[
          "Digest",
@@ -330,7 +330,7 @@
       "question":"What is Tasmania?",
       "correct_answer":"An Australian State",
       "incorrect_answers":[
-         "A flavor of Ben and Jerry&#039;s ice-cream",
+         "A flavor of Ben and Jerry's ice-cream",
          "A Psychological Disorder",
          "The Name of a Warner Brothers Cartoon Character"
       ]
@@ -366,8 +366,8 @@
       "question":"Terry Gilliam was an animator that worked with which British comedy group?",
       "correct_answer":"Monty Python",
       "incorrect_answers":[
-         "The Goodies&lrm;",
-         "The League of Gentlemen&lrm;",
+         "The Goodies‎",
+         "The League of Gentlemen‎",
          "The Penny Dreadfuls"
       ]
    },
@@ -399,7 +399,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"When one is &quot;envious&quot;, they are said to be what color?",
+      "question":"When one is 'envious', they are said to be what color?",
       "correct_answer":"Green",
       "incorrect_answers":[
          "Red",
@@ -411,7 +411,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the closest planet to our solar system&#039;s sun?",
+      "question":"What is the closest planet to our solar system's sun?",
       "correct_answer":"Mercury",
       "incorrect_answers":[
          "Mars",
@@ -423,7 +423,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the name of NASA&rsquo;s most famous space telescope?",
+      "question":"What is the name of NASA’s most famous space telescope?",
       "correct_answer":"Hubble Space Telescope",
       "incorrect_answers":[
          "Big Eye",
@@ -496,9 +496,9 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"The drug cartel run by Pablo Escobar originated in which South American city?",
-      "correct_answer":"Medell&iacute;n",
+      "correct_answer":"Medell‎ín",
       "incorrect_answers":[
-         "Bogot&aacute;",
+         "Bogotá",
          "Quito",
          "Cali"
       ]
@@ -519,7 +519,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the French word for &quot;fish&quot;?",
+      "question":"What is the French word for 'fish'?",
       "correct_answer":"poisson",
       "incorrect_answers":[
          "fiche",
@@ -531,7 +531,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+      "question":"What is the profession of Elon Musk's mom, Maye Musk?",
       "correct_answer":"Model",
       "incorrect_answers":[
          "Professor",
@@ -543,7 +543,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the famous Papa John&#039;s last name?",
+      "question":"What is the famous Papa John's last name?",
       "correct_answer":"Schnatter",
       "incorrect_answers":[
          "Chowder",
@@ -603,7 +603,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+      "question":"This field is sometimes known as “The Dismal Science.”",
       "correct_answer":"Economics",
       "incorrect_answers":[
          "Philosophy",
@@ -699,7 +699,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+      "question":"What does the 'G' mean in 'G-Man'?",
       "correct_answer":"Government",
       "incorrect_answers":[
          "Going",
@@ -807,19 +807,19 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the German word for &quot;spoon&quot;?",
-      "correct_answer":"L&ouml;ffel",
+      "question":"What is the German word for 'spoon'?",
+      "correct_answer":"Löffel",
       "incorrect_answers":[
          "Gabel",
          "Messer",
-         "Essst&auml;bchen"
+         "Essstäbchen"
       ]
    },
    {
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the romanized Japanese word for &quot;university&quot;?",
+      "question":"What is the romanized Japanese word for 'university'?",
       "correct_answer":"Daigaku",
       "incorrect_answers":[
          "Toshokan",
@@ -831,7 +831,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"The term &quot;scientist&quot; was coined in which year?",
+      "question":"The term 'scientist' was coined in which year?",
       "correct_answer":"1833",
       "incorrect_answers":[
          "1933",
@@ -855,7 +855,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+      "question":"According to the United States' CDC, one in how many Americans die annually due to smoking?",
       "correct_answer":"Five",
       "incorrect_answers":[
          "Twenty",
@@ -915,7 +915,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In what year was McDonald&#039;s founded?",
+      "question":"In what year was McDonald's founded?",
       "correct_answer":"1955",
       "incorrect_answers":[
          "1964",
@@ -939,24 +939,24 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What was Mountain Dew&#039;s original slogan?",
-      "correct_answer":"Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+      "question":"What was Mountain Dew's original slogan?",
+      "correct_answer":"Yahoo! Mountain Dew... It'll tickle your innards!",
       "incorrect_answers":[
          "Give Me A Dew",
          "Do The Dew",
-         "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+         "Get' that barefoot feelin' drinkin' Mountain Dew"
       ]
    },
    {
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+      "question":"Which iconic Disneyland attraction was closed in 2017 to be remodeled as a 'Guardians of the Galaxy' themed ride?",
       "correct_answer":"Twilight Zone Tower of Terror",
       "incorrect_answers":[
          "The Haunted Mansion",
          "Pirates of the Caribbean",
-         "Peter Pan&#039;s Flight"
+         "Peter Pan's Flight"
       ]
    },
    {
@@ -964,7 +964,7 @@
       "type":"multiple",
       "difficulty":"medium",
       "question":"What was the soft drink Pepsi originally introduced as?",
-      "correct_answer":"Brad&#039;s Drink",
+      "correct_answer":"Brad's Drink",
       "incorrect_answers":[
          "Pepsin Pop",
          "Carolina Cola",
@@ -975,12 +975,12 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the Portuguese word for &quot;Brazil&quot;?",
+      "question":"What is the Portuguese word for 'Brazil'?",
       "correct_answer":"Brasil",
       "incorrect_answers":[
          "Brazil",
          "Brasilia",
-         "Bras&iacute;l"
+         "Bras‎íl"
       ]
    },
    {
@@ -1011,7 +1011,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+      "question":"Which slogan did the fast food company, McDonald's, use before their 'I'm Lovin' It' slogan?",
       "correct_answer":"We Love to See You Smile",
       "incorrect_answers":[
          "Why Pay More!?",
@@ -1035,7 +1035,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+      "question":"The website 'Shut Up & Sit Down' reviews which form of media?",
       "correct_answer":"Board Games",
       "incorrect_answers":[
          "Television Shows",
@@ -1107,7 +1107,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+      "question":"In ancient Greece, if your job were a 'hippeus' which of these would you own?",
       "correct_answer":"Horse",
       "incorrect_answers":[
          "Weave",
@@ -1123,7 +1123,7 @@
       "correct_answer":"First Lord of the Treasury",
       "incorrect_answers":[
          "Duke of Cambridge",
-         "Her Majesty&#039;s Loyal Opposition",
+         "Her Majesty's Loyal Opposition",
          "Manager of the Crown Estate"
       ]
    },
@@ -1203,7 +1203,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+      "question":"Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
       "correct_answer":"Ed Sheeran - I See Fire",
       "incorrect_answers":[
          "Marvin Gaye - Sexual Healing",
@@ -1215,7 +1215,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+      "question":"What type of dog is 'Handsome Dan', the mascot of Yale University?",
       "correct_answer":"Bulldog",
       "incorrect_answers":[
          "Yorkshire Terrier",
@@ -1239,7 +1239,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+      "question":"The words 'bungalow' and 'shampoo' originate from the languages of which country?",
       "correct_answer":"India",
       "incorrect_answers":[
          "Papua New Guinea",
@@ -1251,7 +1251,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"When was &quot;YouTube&quot; founded?",
+      "question":"When was 'YouTube' founded?",
       "correct_answer":"February 14, 2005",
       "incorrect_answers":[
          "May 22, 2004",
@@ -1323,7 +1323,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which of the following is an existing family in &quot;The Sims&quot;?",
+      "question":"Which of the following is an existing family in 'The Sims'?",
       "correct_answer":"The Goth Family",
       "incorrect_answers":[
          "The Family",
@@ -1347,7 +1347,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the romanized Chinese word for &quot;airplane&quot;?",
+      "question":"What is the romanized Chinese word for 'airplane'?",
       "correct_answer":"Feiji",
       "incorrect_answers":[
          "Qiche",
@@ -1359,7 +1359,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the romanized Korean word for &quot;heart&quot;?",
+      "question":"What is the romanized Korean word for 'heart'?",
       "correct_answer":"Simjang",
       "incorrect_answers":[
          "Aejeong",
@@ -1371,7 +1371,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the romanized Arabic word for &quot;moon&quot;?",
+      "question":"What is the romanized Arabic word for 'moon'?",
       "correct_answer":"Qamar",
       "incorrect_answers":[
          "Najma",
@@ -1383,7 +1383,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The Swedish word &quot;Grunka&quot; means what in English?",
+      "question":"The Swedish word 'Grunka' means what in English?",
       "correct_answer":"Thing",
       "incorrect_answers":[
          "People",
@@ -1395,7 +1395,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+      "question":"Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
       "correct_answer":"Harry",
       "incorrect_answers":[
          "Gus",
@@ -1434,7 +1434,7 @@
       "question":"Which one of these Swedish companies was founded in 1943?",
       "correct_answer":"IKEA",
       "incorrect_answers":[
-         "H &amp; M",
+         "H & M",
          "Lindex",
          "Clas Ohlson"
       ]
@@ -1527,7 +1527,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+      "question":"What does the Latin phrase 'Veni, vidi, vici' translate into English?",
       "correct_answer":"I came, I saw, I conquered",
       "incorrect_answers":[
          "See no evil, hear no evil, speak no evil",
@@ -1539,7 +1539,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+      "question":"Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
       "correct_answer":"Andrew Scott Reisse",
       "incorrect_answers":[
          "Nate Mitchell",
@@ -1563,7 +1563,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+      "question":"In flight systems, what does the initialism 'TCAS' stand for?",
       "correct_answer":"Traffic Collision Avoidance System",
       "incorrect_answers":[
          "Traffic Communication Alert System",
@@ -1575,7 +1575,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"If someone said &quot;you are olid&quot;, what would they mean?",
+      "question":"If someone said 'you are olid', what would they mean?",
       "correct_answer":"You smell extremely unpleasant.",
       "incorrect_answers":[
          "You are out of shape\/weak.",
@@ -1659,11 +1659,11 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
-      "correct_answer":"St. Peter&#039;s Basilica",
+      "question":"Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+      "correct_answer":"St. Peter's Basilica",
       "incorrect_answers":[
          "Catania Cathedral",
-         "St. Mark&rsquo;s Basilica",
+         "St. Mark’s Basilica",
          "The Duomo of Florence"
       ]
    },
@@ -1683,7 +1683,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+      "question":"Located in Chile, El Teniente is the world's largest underground mine for what metal?",
       "correct_answer":"Copper",
       "incorrect_answers":[
          "Iron",
@@ -1707,19 +1707,19 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
-      "correct_answer":"The Shatter&#039;s",
+      "question":"In the MMO RPG 'Realm of the Mad God', what dungeon is widely considered to be the most difficult?",
+      "correct_answer":"The Shatter's",
       "incorrect_answers":[
          "Snake Pit",
-         "The Tomb of the Acient&#039;s",
-         "The Puppet Master&#039;s Theater"
+         "The Tomb of the Acient's",
+         "The Puppet Master's Theater"
       ]
    },
    {
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In &quot;Battle Cats&quot;, what is Moneko \/ MISS Moneko&#039;s critical percentage rate?",
+      "question":"In 'Battle Cats', what is Moneko \/ MISS Moneko's critical percentage rate?",
       "correct_answer":"15%",
       "incorrect_answers":[
          "20%",
@@ -1743,24 +1743,24 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The word &quot;abulia&quot; means which of the following?",
+      "question":"The word 'abulia' means which of the following?",
       "correct_answer":"The inability to make decisions",
       "incorrect_answers":[
          "The inability to stand up",
          "The inability to concentrate on anything",
-         "A feverish desire to rip one&#039;s clothes off"
+         "A feverish desire to rip one's clothes off"
       ]
    },
    {
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The word &quot;astasia&quot; means which of the following?",
+      "question":"The word 'astasia' means which of the following?",
       "correct_answer":"The inability to stand up",
       "incorrect_answers":[
          "The inability to make decisions",
          "The inability to concentrate on anything",
-         "A feverish desire to rip one&#039;s clothes off"
+         "A feverish desire to rip one's clothes off"
       ]
    },
    {
@@ -1791,7 +1791,7 @@
       "category":"General Knowledge",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+      "question":"In 'Resident Evil 3', how many inventory slots does Jill have at the start of the game?",
       "correct_answer":"10",
       "incorrect_answers":[
          "6",
@@ -1827,7 +1827,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which English football club has the nickname &#039;The Foxes&#039;?",
+      "question":"Which English football club has the nickname 'The Foxes'?",
       "correct_answer":"Leicester City",
       "incorrect_answers":[
          "Northampton Town",
@@ -1851,7 +1851,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In what sport is a &quot;shuttlecock&quot; used?",
+      "question":"In what sport is a 'shuttlecock' used?",
       "correct_answer":"Badminton",
       "incorrect_answers":[
          "Table Tennis",
@@ -1887,7 +1887,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+      "question":"The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
       "correct_answer":"August 21",
       "incorrect_answers":[
          "August 23",
@@ -1995,7 +1995,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+      "question":"Who won the 2016 Formula 1 World Driver's Championship?",
       "correct_answer":"Nico Rosberg",
       "incorrect_answers":[
          "Lewis Hamilton",
@@ -2007,7 +2007,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+      "question":"Which city did the former NHL team 'The Nordiques' originiate from?",
       "correct_answer":"Quebec City",
       "incorrect_answers":[
          "Houston",
@@ -2043,7 +2043,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+      "question":"This Canadian television sportscaster is known for his 'Hockey Night in Canada' role, a commentary show during hockey games.",
       "correct_answer":"Don Cherry",
       "incorrect_answers":[
          "Don McKellar",
@@ -2079,7 +2079,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+      "question":"Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
       "correct_answer":"Mike Tyson",
       "incorrect_answers":[
          "Roy Jones Jr.",
@@ -2127,7 +2127,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+      "question":"Who is often called 'the Maestro' in the men's tennis circuit?",
       "correct_answer":"Roger Federer",
       "incorrect_answers":[
          "Bill Tilden",
@@ -2163,7 +2163,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the name of Manchester United&#039;s home stadium?",
+      "question":"What is the name of Manchester United's home stadium?",
       "correct_answer":"Old Trafford",
       "incorrect_answers":[
          "Anfield",
@@ -2223,7 +2223,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+      "question":"'Stadium of Light' is the home stadium for which soccer team?",
       "correct_answer":"Sunderland FC",
       "incorrect_answers":[
          "Barcelona FC",
@@ -2235,7 +2235,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+      "question":"Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
       "correct_answer":"2009",
       "incorrect_answers":[
          "2010",
@@ -2259,7 +2259,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who won the 2017 Formula One World Drivers&#039; Championship?",
+      "question":"Who won the 2017 Formula One World Drivers' Championship?",
       "correct_answer":"Lewis Hamilton",
       "incorrect_answers":[
          "Sebastian Vettel",
@@ -2308,11 +2308,11 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"Which two teams played in Super Bowl XLII?",
-      "correct_answer":"The New York Giants &amp; The New England Patriots",
+      "correct_answer":"The New York Giants & The New England Patriots",
       "incorrect_answers":[
-         "The Green Bay Packers &amp; The Pittsburgh Steelers",
-         "The Philadelphia Eagles &amp; The New England Patriots",
-         "The Seattle Seahawks &amp; The Denver Broncos"
+         "The Green Bay Packers & The Pittsburgh Steelers",
+         "The Philadelphia Eagles & The New England Patriots",
+         "The Seattle Seahawks & The Denver Broncos"
       ]
    },
    {
@@ -2355,7 +2355,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+      "question":"Which of these teams isn't a member of the NHL's 'Original Six' era?",
       "correct_answer":"Philadelphia Flyers",
       "incorrect_answers":[
          "New York Rangers",
@@ -2379,7 +2379,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the nickname of Northampton town&#039;s rugby union club?",
+      "question":"What is the nickname of Northampton town's rugby union club?",
       "correct_answer":"Saints",
       "incorrect_answers":[
          "Harlequins",
@@ -2403,7 +2403,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+      "question":"Which Formula One driver was nicknamed 'The Professor'?",
       "correct_answer":"Alain Prost",
       "incorrect_answers":[
          "Ayrton Senna",
@@ -2456,7 +2456,7 @@
       "incorrect_answers":[
          "The Showdown (Australia)",
          "Verstappen on Fire (Germany)",
-         "Schumacher&#039;s Ban (Britain)"
+         "Schumacher's Ban (Britain)"
       ]
    },
    {
@@ -2535,7 +2535,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+      "question":"Which soccer team won the Copa América 2015 Championship ?",
       "correct_answer":"Chile",
       "incorrect_answers":[
          "Argentina",
@@ -2547,7 +2547,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+      "question":"Which soccer team won the Copa América Centenario 2016?",
       "correct_answer":"Chile",
       "incorrect_answers":[
          "Argentina",
@@ -2571,7 +2571,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+      "question":"In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",
       "correct_answer":"Mercedes-AMG Petronas",
       "incorrect_answers":[
          "Scuderia Ferrari",
@@ -2655,7 +2655,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who won the &quot;Champions League&quot; in 1999?",
+      "question":"Who won the 'Champions League' in 1999?",
       "correct_answer":"Manchester United",
       "incorrect_answers":[
          "Barcelona",
@@ -2716,7 +2716,7 @@
       "type":"multiple",
       "difficulty":"medium",
       "question":"Which NBA player won Most Valuable Player for the 1999-2000 season?",
-      "correct_answer":"Shaquille O&#039;Neal",
+      "correct_answer":"Shaquille O'Neal",
       "incorrect_answers":[
          "Allen Iverson",
          "Kobe Bryant",
@@ -2739,7 +2739,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"How many French Open&#039;s did Bj&ouml;rn Borg win?",
+      "question":"How many French Open's did Björn Borg win?",
       "correct_answer":"6",
       "incorrect_answers":[
          "4",
@@ -2763,7 +2763,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who is Manchester United&#039;s top premier league goal scorer?",
+      "question":"Who is Manchester United's top premier league goal scorer?",
       "correct_answer":"Wayne Rooney",
       "incorrect_answers":[
          "Sir Bobby Charlton",
@@ -2811,7 +2811,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is Tiger Woods&#039; all-time best career golf-score?",
+      "question":"What is Tiger Woods' all-time best career golf-score?",
       "correct_answer":"61",
       "incorrect_answers":[
          "65",
@@ -2883,7 +2883,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+      "question":"Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
       "correct_answer":"Tunisia",
       "incorrect_answers":[
          "United States of America",
@@ -2908,9 +2908,9 @@
       "type":"multiple",
       "difficulty":"medium",
       "question":"Who was the top scorer of the 2014 FIFA World Cup?",
-      "correct_answer":"James Rodr&iacute;guez",
+      "correct_answer":"James Rodr‎íguez",
       "incorrect_answers":[
-         "Thomas M&uuml;ller",
+         "Thomas MÜller",
          "Lionel Messi",
          "Neymar"
       ]
@@ -2931,7 +2931,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+      "question":"What tool lends it's name to a last-stone advantage in an end in Curling?",
       "correct_answer":"Hammer",
       "incorrect_answers":[
          "Wrench",
@@ -2979,7 +2979,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+      "question":"Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
       "correct_answer":"Pelle",
       "incorrect_answers":[
          "Insigne",
@@ -3015,7 +3015,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+      "question":"What is the full name of the footballer 'Cristiano Ronaldo'?",
       "correct_answer":"Cristiano Ronaldo dos Santos Aveiro",
       "incorrect_answers":[
          "Cristiano Ronaldo los Santos Diego",
@@ -3051,7 +3051,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+      "question":"Which city features all of their professional sports teams' jersey's with the same color scheme?",
       "correct_answer":"Pittsburgh",
       "incorrect_answers":[
          "New York",
@@ -3063,7 +3063,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+      "question":"Which player 'kung-fu kicked' a Crystal Palace fan in January 1995?",
       "correct_answer":"Eric Cantona",
       "incorrect_answers":[
          "David Seamen",
@@ -3075,7 +3075,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who is Manchester United&#039;s leading appearance maker?",
+      "question":"Who is Manchester United's leading appearance maker?",
       "correct_answer":"Ryan Giggs",
       "incorrect_answers":[
          "David Beckham",
@@ -3099,7 +3099,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is &ldquo;The Sport of Kings&rdquo;?",
+      "question":"What is “The Sport of Kings”?",
       "correct_answer":"Horse Racing",
       "incorrect_answers":[
          "Chess",
@@ -3147,7 +3147,7 @@
       "category":"Sports",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which English football team is nicknamed &#039;The Tigers&#039;?",
+      "question":"Which English football team is nicknamed 'The Tigers'?",
       "correct_answer":"Hull City",
       "incorrect_answers":[
          "Cardiff City",
@@ -3159,7 +3159,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+      "question":"What breed of dog was Marley in the film 'Marley & Me' (2008)?",
       "correct_answer":"Labrador Retriever",
       "incorrect_answers":[
          "Golden Retriever",
@@ -3171,7 +3171,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+      "question":"Which of the following is not the name of a 'Bond Girl'? ",
       "correct_answer":"Vanessa Kensington",
       "incorrect_answers":[
          "Pam Bouvier",
@@ -3183,7 +3183,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+      "question":"Which of the following was not one of 'The Magnificent Seven'?",
       "correct_answer":"Clint Eastwood",
       "incorrect_answers":[
          "Steve McQueen",
@@ -3219,7 +3219,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+      "question":"Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie 'Batman'?",
       "correct_answer":"Michael Keaton",
       "incorrect_answers":[
          "George Clooney",
@@ -3231,7 +3231,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+      "question":"Who directed 'E.T. the Extra-Terrestrial' (1982)?",
       "correct_answer":"Steven Spielberg",
       "incorrect_answers":[
          "Stanley Kubrick",
@@ -3255,7 +3255,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+      "question":"Who wrote and directed the 1986 film 'Platoon'?",
       "correct_answer":"Oliver Stone",
       "incorrect_answers":[
          "Francis Ford Coppola",
@@ -3267,7 +3267,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who played the female lead in the 1933 film &quot;King Kong&quot;?",
+      "question":"Who played the female lead in the 1933 film 'King Kong'?",
       "correct_answer":"Fay Wray",
       "incorrect_answers":[
          "Jean Harlow",
@@ -3279,7 +3279,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+      "question":"Who starred in the film 1973 movie 'Enter The Dragon'?",
       "correct_answer":"Bruce Lee",
       "incorrect_answers":[
          "Jackie Chan",
@@ -3291,7 +3291,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+      "question":"Who directed the movies 'Pulp Fiction', 'Reservoir Dogs' and 'Django Unchained'?",
       "correct_answer":"Quentin Tarantino",
       "incorrect_answers":[
          "Martin Scorcese",
@@ -3303,8 +3303,8 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who directed the 2015 movie &quot;The Revenant&quot;?",
-      "correct_answer":"Alejandro G. I&ntilde;&aacute;rritu",
+      "question":"Who directed the 2015 movie 'The Revenant'?",
+      "correct_answer":"Alejandro G. Iñárritu",
       "incorrect_answers":[
          "Christopher Nolan",
          "David Fincher",
@@ -3327,7 +3327,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+      "question":"What was Dorothy's surname in 'The Wizard Of Oz'?",
       "correct_answer":"Gale",
       "incorrect_answers":[
          "Perkins",
@@ -3351,7 +3351,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
+      "question":"This movie contains the quote, 'I feel the need ... the need for speed!'",
       "correct_answer":"Top Gun",
       "incorrect_answers":[
          "Days of Thunder",
@@ -3363,11 +3363,11 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+      "question":"This movie contains the quote, 'Nobody puts Baby in a corner.'",
       "correct_answer":"Dirty Dancing",
       "incorrect_answers":[
          "Three Men and a Baby",
-         "Ferris Bueller&#039;s Day Off",
+         "Ferris Bueller's Day Off",
          "Pretty in Pink"
       ]
    },
@@ -3375,7 +3375,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+      "question":"Which of these actors/actresses is NOT a part of the cast for the 2016 movie 'Suicide Squad'?",
       "correct_answer":"Scarlett Johansson",
       "incorrect_answers":[
          "Jared Leto",
@@ -3426,7 +3426,7 @@
       "question":"Who is the main protagonist in, the 1985 film, Back to the Future?",
       "correct_answer":"Marty McFly",
       "incorrect_answers":[
-         "Emmett &quot;Doc&quot; Brown",
+         "Emmett 'Doc' Brown",
          "Biff Tannen",
          "George McFly"
       ]
@@ -3435,7 +3435,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+      "question":"In the movie 'Cast Away' the main protagonist's best friend while on the island is named",
       "correct_answer":"Wilson",
       "incorrect_answers":[
          "Carson",
@@ -3447,7 +3447,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the fuck a Quarter Pounder is.&quot;",
+      "question":"Who in Pulp Fiction says 'No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.'",
       "correct_answer":"Vincent Vega",
       "incorrect_answers":[
          "Jules Winnfield",
@@ -3459,7 +3459,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In &quot;Jurassic World&quot;, what is the name of the dinosaur that is a genetic hybrid?",
+      "question":"In 'Jurassic World', what is the name of the dinosaur that is a genetic hybrid?",
       "correct_answer":"Indominus Rex",
       "incorrect_answers":[
          "Mosasaurus",
@@ -3483,7 +3483,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
+      "question":"The 2002 film '28 Days Later' is mainly set in which European country?",
       "correct_answer":"United Kingdom",
       "incorrect_answers":[
          "France",
@@ -3495,7 +3495,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+      "question":"In the movie 'Spaceballs', what are the Spaceballs attempting to steal from Planet Druidia?",
       "correct_answer":"Air",
       "incorrect_answers":[
          "The Schwartz",
@@ -3531,7 +3531,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
+      "question":"When does 'Rogue One: A Star Wars Story' take place chronologically in the series?",
       "correct_answer":"Between Episode 3 and 4",
       "incorrect_answers":[
          "After Episode 6",
@@ -3543,7 +3543,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+      "question":"'The first rule is: you don't talk about it' is a reference to which movie?",
       "correct_answer":"Fight Club",
       "incorrect_answers":[
          "The Island",
@@ -3555,8 +3555,8 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
-      "correct_answer":"Aloysius O&#039;Hare",
+      "question":"In the 2012 film, 'The Lorax', who is the antagonist?",
+      "correct_answer":"Aloysius O'Hare",
       "incorrect_answers":[
          "Ted Wiggins",
          "The Once-Ler",
@@ -3567,7 +3567,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+      "question":"In the 1992 film 'Army of Darkness', what name does Ash give to his double-barreled shotgun?",
       "correct_answer":"Boomstick",
       "incorrect_answers":[
          "Bloomstick",
@@ -3579,7 +3579,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
+      "question":"At the end of the 2001 film 'Rat Race', whose concert do the contestants crash?",
       "correct_answer":"Smash Mouth",
       "incorrect_answers":[
          "Bowling for Soup",
@@ -3591,7 +3591,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+      "question":"The 2016 Disney animated film 'Moana' is based on which culture?",
       "correct_answer":"Polynesian",
       "incorrect_answers":[
          "Native American",
@@ -3603,7 +3603,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?",
+      "question":"In the 1995 film 'Balto', who are Steele's accomplices?",
       "correct_answer":"Kaltag, Nikki, and Star",
       "incorrect_answers":[
          "Dusty, Kirby, and Ralph",
@@ -3615,7 +3615,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+      "question":"What is the name of the island that 'Jurassic Park' is built on?",
       "correct_answer":"Isla Nublar",
       "incorrect_answers":[
          "Isla Sorna",
@@ -3627,7 +3627,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+      "question":"For the film 'Raiders of The Lost Ark', what was Harrison Ford sick with during the filming of the Cairo chase?",
       "correct_answer":"Dysentery",
       "incorrect_answers":[
          "Anemia",
@@ -3651,7 +3651,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+      "question":"In which film does Humphrey Bogart say the famous line, 'Here's looking at you, kid'?",
       "correct_answer":"Casablanca",
       "incorrect_answers":[
          "The Maltese Falcon",
@@ -3687,7 +3687,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In &quot;ALF&quot;, what was ALF&#039;s real name?",
+      "question":"In 'ALF', what was ALF's real name?",
       "correct_answer":"Gordon Shumway",
       "incorrect_answers":[
          "Gordon Milipp",
@@ -3711,7 +3711,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What historical time period was the center of the Assassin&rsquo;s Creed movie (2016)?",
+      "question":"What historical time period was the center of the Assassin’s Creed movie (2016)?",
       "correct_answer":"Spanish Inquisition",
       "incorrect_answers":[
          "Victorian England",
@@ -3723,7 +3723,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+      "question":"In the movie 'V for Vendetta,' what is the date that masked vigilante 'V' urges people to remember?",
       "correct_answer":"November 5th",
       "incorrect_answers":[
          "November 6th",
@@ -3735,7 +3735,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+      "question":"The 1996 film 'Fargo' is primarily set in which US state?",
       "correct_answer":"Minnesota",
       "incorrect_answers":[
          "North Dakota",
@@ -3760,18 +3760,18 @@
       "type":"multiple",
       "difficulty":"medium",
       "question":"Which of the following is NOT a quote from the 1942 film Casablanca? ",
-      "correct_answer":"&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+      "correct_answer":"'Frankly, my dear, I don't give a damn.'",
       "incorrect_answers":[
-         "&quot;Here&#039;s lookin&#039; at you, kid.&quot;",
-         "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;",
-         "&quot;Round up the usual suspects.&quot;"
+         "'Here's lookin' at you, kid.'",
+         "“Of all the gin joints, in all the towns, in all the world, she walks into mine…”",
+         "'Round up the usual suspects.'"
       ]
    },
    {
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+      "question":"In the movie “The Iron Giant,” this character is the protagonist.",
       "correct_answer":"Hogarth Hughes",
       "incorrect_answers":[
          "Kent Mansley",
@@ -3795,7 +3795,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?",
+      "question":"Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?",
       "correct_answer":"Dan Marino",
       "incorrect_answers":[
          "John Elway",
@@ -3807,7 +3807,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+      "question":"Which actor played the main character in the 1990 film 'Edward Scissorhands'?",
       "correct_answer":"Johnny Depp",
       "incorrect_answers":[
          " Clint Eastwood",
@@ -3819,7 +3819,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+      "question":"What is the name of James Dean's character in the 1955 movie 'Rebel Without a Cause'?",
       "correct_answer":"Jim Stark",
       "incorrect_answers":[
          "Ned Stark",
@@ -3831,7 +3831,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who directed the 1973 film &quot;American Graffiti&quot;?",
+      "question":"Who directed the 1973 film 'American Graffiti'?",
       "correct_answer":"George Lucas",
       "incorrect_answers":[
          "Ron Howard",
@@ -3843,7 +3843,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?",
+      "question":"In which African country was the 2006 film 'Blood Diamond' mostly set in?",
       "correct_answer":"Sierra Leone",
       "incorrect_answers":[
          "Liberia",
@@ -3855,7 +3855,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?",
+      "question":"What does TIE stand for in reference to the TIE Fighter in 'Star Wars'?",
       "correct_answer":"Twin Ion Engine",
       "incorrect_answers":[
          "Twin Iron Engine",
@@ -3867,7 +3867,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+      "question":"What is the name of the Artificial Intelligence system in the 1983 film, 'WarGames'?",
       "correct_answer":"War Operation Plan Response",
       "incorrect_answers":[
          "Self Evolving Thought Helix",
@@ -3879,7 +3879,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+      "question":"In the 1994 movie 'Speed', what is the minimum speed the bus must go to prevent to bomb from exploding?",
       "correct_answer":"50 mph",
       "incorrect_answers":[
          "60 mph",
@@ -3891,7 +3891,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+      "question":"In the 1971 film 'Willy Wonka & the Chocolate Factory', who played Willy Wonka?",
       "correct_answer":"Gene Wilder",
       "incorrect_answers":[
          "Shia LeBouf",
@@ -3915,7 +3915,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+      "question":"In the 1979 British film 'Quadrophenia' what is the name of the main protagonist?",
       "correct_answer":"Jimmy Cooper",
       "incorrect_answers":[
          "Pete Townshend",
@@ -3939,7 +3939,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?",
+      "question":"Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?",
       "correct_answer":"Harrison Ford",
       "incorrect_answers":[
          "Michael J. Fox",
@@ -3963,7 +3963,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+      "question":"What is the correct phrase for the Latin saying 'Romanes Eunt Domus' in Monty Python's Life of Brian?",
       "correct_answer":"Romani Ite Domum",
       "incorrect_answers":[
          "Romans Go Home",
@@ -3975,7 +3975,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+      "question":"Who played Sgt. Gordon Elias in 'Platoon' (1986)?",
       "correct_answer":"Willem Dafoe",
       "incorrect_answers":[
          "Charlie Sheen",
@@ -3999,12 +3999,12 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
-      "correct_answer":"&quot;No. I am your father.&quot;",
+      "question":"Darth Vader's famous reveal to Luke is iconic. But which of these is the right one?",
+      "correct_answer":"'No. I am your father.'",
       "incorrect_answers":[
-         "&quot;Luke, I am your father.&quot;",
-         "&quot;You&#039;re wrong. I am your father.&quot;",
-         "&quot;The truth is that I am your father.&quot;"
+         "'Luke, I am your father.'",
+         "'You're wrong. I am your father.'",
+         "'The truth is that I am your father.'"
       ]
    },
    {
@@ -4023,7 +4023,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+      "question":"What city did the monster attack in the film, 'Cloverfield'?",
       "correct_answer":"New York, New York",
       "incorrect_answers":[
          "Las Vegas, Nevada",
@@ -4047,7 +4047,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+      "question":"Who played the Cenobite called 'Pinhead' in the original Hellraiser films?",
       "correct_answer":"Doug Bradley",
       "incorrect_answers":[
          "Doug Jones",
@@ -4071,7 +4071,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In which movie does Robin Williams&#039; character have to disguise themselves into a woman?",
+      "question":"In which movie does Robin Williams' character have to disguise themselves into a woman?",
       "correct_answer":"Mrs. Doubtfire",
       "incorrect_answers":[
          "Old Dogs",
@@ -4083,7 +4083,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+      "question":"What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",
       "correct_answer":"Wensleydale",
       "incorrect_answers":[
          "Cheddar",
@@ -4095,7 +4095,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which documentary film maker wrote and starred in the film &quot;My Scientology Movie&quot; which first debuted in 2015?",
+      "question":"Which documentary film maker wrote and starred in the film 'My Scientology Movie' which first debuted in 2015?",
       "correct_answer":"Louis Theroux",
       "incorrect_answers":[
          "Errol Morris",
@@ -4107,7 +4107,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+      "question":"In the 'Jurassic Park' universe, what is the name of the island that contains InGen's Site B?",
       "correct_answer":"Isla Sorna",
       "incorrect_answers":[
          "Isla Nublar",
@@ -4119,7 +4119,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who directed the movie &quot;Alien&quot;?",
+      "question":"Who directed the movie 'Alien'?",
       "correct_answer":"Ridley Scott",
       "incorrect_answers":[
          "Christopher Nolan",
@@ -4131,7 +4131,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who plays &quot;Bruce Wayne&quot; in the 2008 movie &quot;The Dark Knight&quot;?",
+      "question":"Who plays 'Bruce Wayne' in the 2008 movie 'The Dark Knight'?",
       "correct_answer":"Christian Bale",
       "incorrect_answers":[
          "Michael Caine",
@@ -4179,7 +4179,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is Lilo&#039;s last name from Lilo and Stitch?",
+      "question":"What is Lilo's last name from Lilo and Stitch?",
       "correct_answer":"Pelekai",
       "incorrect_answers":[
          "Anoaʻi",
@@ -4191,7 +4191,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+      "question":"What is the name of the queen's pet in A Bug's Life?",
       "correct_answer":"Aphie",
       "incorrect_answers":[
          "Flik",
@@ -4203,7 +4203,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In Finding Nemo, what was the name of Nemo&#039;s mom?",
+      "question":"In Finding Nemo, what was the name of Nemo's mom?",
       "correct_answer":"Coral",
       "incorrect_answers":[
          "Sandy",
@@ -4215,7 +4215,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who provided a majority of the songs and lyrics for &quot;Spirit: Stallion of the Cimarron&quot;?",
+      "question":"Who provided a majority of the songs and lyrics for 'Spirit: Stallion of the Cimarron'?",
       "correct_answer":"Bryan Adams",
       "incorrect_answers":[
          "Smash Mouth",
@@ -4263,7 +4263,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+      "question":"In the 2014 film 'Birdman', what is the primary instrument in the score?",
       "correct_answer":"Drums",
       "incorrect_answers":[
          "Saxophone",
@@ -4299,7 +4299,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+      "question":"Which of the following actors does not play a role in the movie 'The Usual Suspects?'",
       "correct_answer":"Steve Buscemi",
       "incorrect_answers":[
          "Kevin Spacey",
@@ -4347,7 +4347,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"The killer in the 1981 film &#039;My Bloody Valentine&#039; wears what sort of outfit?",
+      "question":"The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?",
       "correct_answer":"Mining gear",
       "incorrect_answers":[
          "Clown costume",
@@ -4359,7 +4359,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+      "question":"Which was the first of Alfred Hitchcock's movies to be filmed in colour?",
       "correct_answer":"Rope",
       "incorrect_answers":[
          "Psycho",
@@ -4383,7 +4383,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+      "question":"In the film 'Interstellar', how long did they spend on Miller's planet?",
       "correct_answer":"23 years, 4 months, and 8 days",
       "incorrect_answers":[
          "15 years, 2 months, and 15 days",
@@ -4395,7 +4395,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+      "question":"In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",
       "correct_answer":"4",
       "incorrect_answers":[
          "2",
@@ -4407,7 +4407,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ",
+      "question":"What did Alfred Hitchcock use as blood in the film 'Psycho'? ",
       "correct_answer":"Chocolate syrup",
       "incorrect_answers":[
          "Ketchup",
@@ -4419,7 +4419,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
+      "question":"What is the name of the assassin in the first 'Hellboy' movie?",
       "correct_answer":"Karl Ruprecht Kroenen",
       "incorrect_answers":[
          "Klaus Werner von Krupt",
@@ -4431,7 +4431,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What was the name of the planet in &quot;Aliens&quot;?",
+      "question":"What was the name of the planet in 'Aliens'?",
       "correct_answer":"LV-426",
       "incorrect_answers":[
          "Weyland Yutani Corporation Base",
@@ -4455,19 +4455,19 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+      "question":"In 2012, which movie won every category in the 32nd 'Golden Raspberry Awards'?",
       "correct_answer":"Jack and Jill",
       "incorrect_answers":[
          "The Girl with the Dragon Tattoo",
          "Thor",
-         "The King&#039;s Speech"
+         "The King's Speech"
       ]
    },
    {
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+      "question":"In what Disney movie can you spot the character 'Pac-Man' in if you look closely enough in some scenes?",
       "correct_answer":"Tron",
       "incorrect_answers":[
          "Big Hero 6",
@@ -4479,7 +4479,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+      "question":"In the 1964 film 'Zulu', what song does the British Army company sing before the final battle?",
       "correct_answer":"Men of Harlech",
       "incorrect_answers":[
          "Scotland the Brave",
@@ -4503,7 +4503,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the movie &quot;Scream&quot; who is Ghost Face?",
+      "question":"In the movie 'Scream' who is Ghost Face?",
       "correct_answer":"Billy Loomis and Stu Macher",
       "incorrect_answers":[
          "Dewey Riley",
@@ -4532,18 +4532,18 @@
       "incorrect_answers":[
          "Fast food",
          "Food stamps",
-         "They weren&#039;t paid"
+         "They weren't paid"
       ]
    },
    {
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In &quot;Star Trek Nemesis&quot;, why was Praetor Shinzon created?",
+      "question":"In 'Star Trek Nemesis', why was Praetor Shinzon created?",
       "correct_answer":"To replace Picard as a Romulan Agent",
       "incorrect_answers":[
          "To destroy the Enterprise",
-         "To become Picard&#039;s friend ",
+         "To become Picard's friend ",
          "To steal the Enterprise"
       ]
    },
@@ -4551,7 +4551,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+      "question":"In what year did Clint Eastwood star as Inspector Harry Callahan in the film 'Dirty Harry'?",
       "correct_answer":"1971",
       "incorrect_answers":[
          "1975",
@@ -4563,7 +4563,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"According to &quot;Star Wars&quot; lore, which planet does Obi-Wan Kenobi come from?",
+      "question":"According to 'Star Wars' lore, which planet does Obi-Wan Kenobi come from?",
       "correct_answer":"Stewjon",
       "incorrect_answers":[
          "Alderaan",
@@ -4575,7 +4575,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+      "question":"In what year does Jurassic World open in the 'Jurassic Park' universe?",
       "correct_answer":"2005",
       "incorrect_answers":[
          "2007",
@@ -4587,7 +4587,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+      "question":"What is the name of the supercomputer located in the control room in 'Jurassic Park' (1993)?",
       "correct_answer":"Thinking Machines CM-5",
       "incorrect_answers":[
          "Cray X-MP",
@@ -4599,7 +4599,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
+      "question":"Before 'Jurassic Park III' was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
       "correct_answer":"Baryonyx",
       "incorrect_answers":[
          "Tyrannosaurus Rex",
@@ -4611,7 +4611,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
+      "question":"In the 'Jurassic Park' universe, what was the first dinosaur cloned by InGen in 1986?",
       "correct_answer":"Velociraptor",
       "incorrect_answers":[
          "Triceratops",
@@ -4623,7 +4623,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+      "question":"In the 'Jurassic Park' universe, when did 'Jurassic Park: San Diego' begin construction?",
       "correct_answer":"1985",
       "incorrect_answers":[
          "1988",
@@ -4635,31 +4635,31 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
-      "correct_answer":"&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+      "question":"What three movies, in order from release date, make up the 'Dollars Trilogy'?",
+      "correct_answer":"'A Fistful of Dollars', 'For a Few Dollars More', 'The Good, the Bad, and the Ugly'",
       "incorrect_answers":[
-         "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
-         "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
-         "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+         "'The Good, the Bad, and the Ugly', 'For A Few Dollars More', 'A Fistful of Dollars'",
+         "'For a Few Dollars More', 'The Good, the Bad, and the Ugly', 'A Fistful of Dollars'",
+         "'For a Few Dollars More', 'A Fistful of Dollars', 'The Good, the Bad, and the Ugly'"
       ]
    },
    {
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+      "question":"Which actors made up the trio in 'The Good, the Bad, and the Ugly'? ",
       "correct_answer":"Clint Eastwood, Eli Wallach, and Lee Van Cleef",
       "incorrect_answers":[
          "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
          "Yul Brynner, Steve McQueen, and Charles Bronson",
-         "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli"
+         "Aldo Giuffrè, Mario Brega, and Luigi Pistilli"
       ]
    },
    {
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+      "question":"Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
       "correct_answer":"Sigourney Weaver",
       "incorrect_answers":[
          "Jessica Chastain",
@@ -4671,7 +4671,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+      "question":"What is the species of the 'Predator' in the 1987 movie 'Predator'?",
       "correct_answer":"Yautja",
       "incorrect_answers":[
          "Xenomorph",
@@ -4695,7 +4695,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+      "question":"In Big Hero 6, what were Baymax's motions modeled after?",
       "correct_answer":"Baby penguins",
       "incorrect_answers":[
          "Baby monkeys",
@@ -4731,7 +4731,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which 1994 film did Roger Ebert famously despise, saying &quot;I hated hated hated hated hated this movie&quot;.",
+      "question":"Which 1994 film did Roger Ebert famously despise, saying 'I hated hated hated hated hated this movie'.",
       "correct_answer":"North",
       "incorrect_answers":[
          "3 Ninjas Kick Back",
@@ -4755,7 +4755,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What was Humphrey Bogart&#039;s middle name?",
+      "question":"What was Humphrey Bogart's middle name?",
       "correct_answer":"DeForest",
       "incorrect_answers":[
          "DeWinter",
@@ -4767,7 +4767,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+      "question":"In the film 'Harry Potter and the Order of The Phoenix', why was Harry Potter's scream, after Sirius Black died, muted?",
       "correct_answer":"Too Agonizing",
       "incorrect_answers":[
          "Too Loud",
@@ -4779,7 +4779,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+      "question":"The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
       "correct_answer":"Verdi",
       "incorrect_answers":[
          "Mozart",
@@ -4791,12 +4791,12 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the 1974 Christmas flick &quot;The Year Without a Santa Claus,&quot; what are the names of the two elves who help Mrs. Claus save Christmas?",
-      "correct_answer":"Jingle &amp; Jangle",
+      "question":"In the 1974 Christmas flick 'The Year Without a Santa Claus,' what are the names of the two elves who help Mrs. Claus save Christmas?",
+      "correct_answer":"Jingle & Jangle",
       "incorrect_answers":[
-         "Buddy &amp; Bobby",
-         "Holly &amp; Jolly",
-         "Snowflake &amp; Icicle"
+         "Buddy & Bobby",
+         "Holly & Jolly",
+         "Snowflake & Icicle"
       ]
    },
    {
@@ -4815,7 +4815,7 @@
       "category":"Movies",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+      "question":"Which singer is portrayed by Bruce Campbell in the 2002 film 'Bubba Ho-Tep'?",
       "correct_answer":"Elvis Presley",
       "incorrect_answers":[
          "Johnny Cash",
@@ -4827,7 +4827,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?",
+      "question":"Who wrote the Sinead O`Connor hit 'Nothing Compares 2 U'?",
       "correct_answer":"Prince",
       "incorrect_answers":[
          "Michael Jackson",
@@ -4839,7 +4839,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+      "question":"Who had a 1969 top 5 hit with the song,  'A Boy Named Sue'?",
       "correct_answer":"Johnny Cash",
       "incorrect_answers":[
          "Bob Dylan",
@@ -4851,7 +4851,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+      "question":"'Some people call me the space cowboy' is the first line from what song?",
       "correct_answer":"The Joker",
       "incorrect_answers":[
          "Fandango",
@@ -4863,7 +4863,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which English guitarist has the nickname &quot;Slowhand&quot;?",
+      "question":"Which English guitarist has the nickname 'Slowhand'?",
       "correct_answer":"Eric Clapton",
       "incorrect_answers":[
          "Mark Knopfler",
@@ -4875,7 +4875,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which rap group released the album &quot;Straight Outta Compton&quot;?",
+      "question":"Which rap group released the album 'Straight Outta Compton'?",
       "correct_answer":"N.W.A",
       "incorrect_answers":[
          "Wu-Tang Clan",
@@ -4899,7 +4899,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+      "question":"The Red Hot Chili Pepper song 'Give It Away' is from what album?",
       "correct_answer":"Blood Sugar Sex Magik",
       "incorrect_answers":[
          "One Hot Minute",
@@ -4983,7 +4983,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the name of Finnish DJ Darude&#039;s hit single released in October 1999?",
+      "question":"What is the name of Finnish DJ Darude's hit single released in October 1999?",
       "correct_answer":"Sandstorm",
       "incorrect_answers":[
          "Dust Devil",
@@ -4995,7 +4995,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What was the name of singer Frank Ocean&#039;s second studio album, which was released on August 20, 2016?",
+      "question":"What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
       "correct_answer":"Blonde",
       "incorrect_answers":[
          "Brunette",
@@ -5031,7 +5031,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+      "question":"What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song 'Paper Planes'?",
       "correct_answer":"M.I.A.",
       "incorrect_answers":[
          "K.I.A.",
@@ -5055,7 +5055,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The &quot;K&quot; in &quot;K-Pop&quot; stands for which word?",
+      "question":"The 'K' in 'K-Pop' stands for which word?",
       "correct_answer":"Korean",
       "incorrect_answers":[
          "Kenyan",
@@ -5067,7 +5067,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In Mean Girls, who has breasts that tell when it&#039;s raining?",
+      "question":"In Mean Girls, who has breasts that tell when it's raining?",
       "correct_answer":"Karen Smith",
       "incorrect_answers":[
          "Gretchen Weiners",
@@ -5091,7 +5091,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
+      "question":"Which band released songs suchs as 'Rio', 'Girls on Film', and 'The Reflex'?",
       "correct_answer":"Duran Duran",
       "incorrect_answers":[
          "The Cure",
@@ -5103,12 +5103,12 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+      "question":"Which one of these songs did the group 'Men At Work' NOT make?",
       "correct_answer":"Safety Dance",
       "incorrect_answers":[
          "Down Under",
          "Who Can It Be Now?",
-         "It&#039;s a Mistake"
+         "It's a Mistake"
       ]
    },
    {
@@ -5127,7 +5127,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+      "question":"The 2016 song 'Starboy' by Canadian singer The Weeknd features which prominent electronic artist?",
       "correct_answer":"Daft Punk",
       "incorrect_answers":[
          "deadmau5",
@@ -5139,7 +5139,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"From which country did the song &quot;Gangnam Style&quot; originate from?",
+      "question":"From which country did the song 'Gangnam Style' originate from?",
       "correct_answer":"South Korea",
       "incorrect_answers":[
          "Japan",
@@ -5155,7 +5155,7 @@
       "correct_answer":"The Cure",
       "incorrect_answers":[
          "The Smiths",
-         "Echo &amp; the Bunnymen",
+         "Echo & the Bunnymen",
          "New Order"
       ]
    },
@@ -5175,7 +5175,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In 2006, which band released their debut album &quot;A Fever You Can&#039;t Sweat Out&quot;?",
+      "question":"In 2006, which band released their debut album 'A Fever You Can't Sweat Out'?",
       "correct_answer":"Panic! At the Disco",
       "incorrect_answers":[
          "Twenty One Pilots",
@@ -5199,7 +5199,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Who was featured in the song &quot;Words&quot; by Feint? ",
+      "question":"Who was featured in the song 'Words' by Feint? ",
       "correct_answer":"Laura Brehm",
       "incorrect_answers":[
          "Anna Yvette ",
@@ -5211,7 +5211,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What was Daft Punk&#039;s first studio album?",
+      "question":"What was Daft Punk's first studio album?",
       "correct_answer":"Homework",
       "incorrect_answers":[
          "Discovery",
@@ -5240,14 +5240,14 @@
       "incorrect_answers":[
          "Mike Dirnt",
          "Sean Hughes",
-         "Tr&eacute; Cool"
+         "Tré Cool"
       ]
    },
    {
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;The Singing Cowboy&quot; Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+      "question":"'The Singing Cowboy' Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
       "correct_answer":"White Christmas",
       "incorrect_answers":[
          "Frosty the Snowman",
@@ -5259,7 +5259,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which band recorded the album &quot;Parallel Lines&quot;?",
+      "question":"Which band recorded the album 'Parallel Lines'?",
       "correct_answer":"Blondie",
       "incorrect_answers":[
          "Paramore",
@@ -5271,7 +5271,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the frontman&#039;s name of the metal band Megadeth?",
+      "question":"What is the frontman's name of the metal band Megadeth?",
       "correct_answer":"Dave Mustaine",
       "incorrect_answers":[
          "Rob Halford",
@@ -5283,12 +5283,12 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which group performs the song &quot;Crash into Me&quot;?",
+      "question":"Which group performs the song 'Crash into Me'?",
       "correct_answer":"Dave Matthews Band",
       "incorrect_answers":[
          "Phish",
          "The Grateful Dead",
-         "Destiny&#039;s Child"
+         "Destiny's Child"
       ]
    },
    {
@@ -5307,7 +5307,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+      "question":"'Doctor Jones', 'Turn Back Time' and 'Barbie Girl' were UK number ones for which Eurodance group?",
       "correct_answer":"Aqua",
       "incorrect_answers":[
          "Vengaboys",
@@ -5319,31 +5319,31 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What 1970&#039;s American ballad referred to the 1959 plane crash as the &quot;the day the music died&quot;?",
+      "question":"What 1970's American ballad referred to the 1959 plane crash as the 'the day the music died'?",
       "correct_answer":"American Pie",
       "incorrect_answers":[
          "Kentucky Rain",
          "I Will Always Love You",
-         "Rock &#039;n&#039; Roll Suicide"
+         "Rock 'n' Roll Suicide"
       ]
    },
    {
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The &quot;British Invasion&quot; was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
-      "correct_answer":"60&#039;s",
+      "question":"The 'British Invasion' was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+      "correct_answer":"60's",
       "incorrect_answers":[
-         "50&#039;s",
-         "40&#039;s",
-         "30&#039;s"
+         "50's",
+         "40's",
+         "30's"
       ]
    },
    {
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Whose albums included &quot;Back in Black&quot; and &quot;Ballbreaker&quot;?",
+      "question":"Whose albums included 'Back in Black' and 'Ballbreaker'?",
       "correct_answer":"AC/DC",
       "incorrect_answers":[
          "Iron Maiden",
@@ -5355,7 +5355,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+      "question":"Which punk rock band released hit songs such as 'Californication', 'Can't Stop' and 'Under the Bridge'?",
       "correct_answer":"Red Hot Chilli Peppers",
       "incorrect_answers":[
          "Green Day",
@@ -5379,7 +5379,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;Hallelujah&quot; is a song written by which Canadian recording artist?",
+      "question":"'Hallelujah' is a song written by which Canadian recording artist?",
       "correct_answer":"Leonard Cohen",
       "incorrect_answers":[
          "Kory Lefkowits",
@@ -5391,7 +5391,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+      "question":"'Grande Valse' is a phrase from the song 'Gran Vals'. What is that song segment known as?",
       "correct_answer":"Nokia Tune",
       "incorrect_answers":[
          "Hello Moto [Motorola Ringtone]",
@@ -5427,7 +5427,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who had hits in the 70s with the songs &quot;Lonely Boy&quot; and &quot;Never Let Her Slip Away&quot;?",
+      "question":"Who had hits in the 70s with the songs 'Lonely Boy' and 'Never Let Her Slip Away'?",
       "correct_answer":"Andrew Gold",
       "incorrect_answers":[
          "Elton John",
@@ -5439,7 +5439,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the song &ldquo;The Ultimate Showdown of Ultimate Destiny,&rdquo; who is the only one to survive the battle?",
+      "question":"In the song “The Ultimate Showdown of Ultimate Destiny,” who is the only one to survive the battle?",
       "correct_answer":"Mr. Rogers",
       "incorrect_answers":[
          "Batman",
@@ -5451,7 +5451,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?",
+      "question":"Who is the founder and leader of industrial rock band, 'Nine Inch Nails'?",
       "correct_answer":"Trent Reznor",
       "incorrect_answers":[
          "Marilyn Manson",
@@ -5487,7 +5487,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
+      "question":"Which singer was featured in Swedish producer Avicii's song 'Wake Me Up'?",
       "correct_answer":"Aloe Blacc",
       "incorrect_answers":[
          "John Legend",
@@ -5511,7 +5511,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Irish musician Hozier released a music track in 2013 titled, &quot;Take Me to ______&quot;",
+      "question":"Irish musician Hozier released a music track in 2013 titled, 'Take Me to ______'",
       "correct_answer":"Church",
       "incorrect_answers":[
          "Mosque",
@@ -5547,7 +5547,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which of these languages was NOT included in the 2016 song &quot;Don&#039;t Mind&quot; by Kent Jones?",
+      "question":"Which of these languages was NOT included in the 2016 song 'Don't Mind' by Kent Jones?",
       "correct_answer":"Portuguese",
       "incorrect_answers":[
          "Japanese",
@@ -5563,15 +5563,15 @@
       "correct_answer":"The Life of Pablo",
       "incorrect_answers":[
          "Kill Urself My Man",
-         "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
-         "Yo Wife Handcuffin&#039; Me"
+         "You'll Cowards Don't Even Smoke Crack",
+         "Yo Wife Handcuffin' Me"
       ]
    },
    {
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"The 1952 musical composition 4&#039;33&quot;, composed by prolific American composer John Cage, is mainly comprised of what sound?",
+      "question":"The 1952 musical composition 4'33', composed by prolific American composer John Cage, is mainly comprised of what sound?",
       "correct_answer":"Silence",
       "incorrect_answers":[
          "Farts",
@@ -5619,7 +5619,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which country does the power metal band &quot;Sabaton&quot; originate from?",
+      "question":"Which country does the power metal band 'Sabaton' originate from?",
       "correct_answer":"Sweden",
       "incorrect_answers":[
          "Germany",
@@ -5643,7 +5643,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?",
+      "question":"What is the name of the main character from the music video of 'Shelter' by Porter Robinson and A-1 Studios?",
       "correct_answer":"Rin",
       "incorrect_answers":[
          "Rem",
@@ -5655,7 +5655,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who recorded the album called &quot;Down to the Moon&quot; in 1986?",
+      "question":"Who recorded the album called 'Down to the Moon' in 1986?",
       "correct_answer":"Andreas Vollenweider",
       "incorrect_answers":[
          "Jean-Michel Jarre",
@@ -5667,7 +5667,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In what film was the Michael Jackson song &quot;Will You Be There&quot; featured?",
+      "question":"In what film was the Michael Jackson song 'Will You Be There' featured?",
       "correct_answer":"Free Willy",
       "incorrect_answers":[
          "Sleepless in Seattle",
@@ -5679,7 +5679,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Cryoshell, known for &quot;Creeping in My Soul&quot; did the advertising music for what Lego Theme?",
+      "question":"Cryoshell, known for 'Creeping in My Soul' did the advertising music for what Lego Theme?",
       "correct_answer":"Bionicle",
       "incorrect_answers":[
          "Hero Factory",
@@ -5703,7 +5703,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Ellie Goulding&#039;s earliest album was named?",
+      "question":"Ellie Goulding's earliest album was named?",
       "correct_answer":"Lights",
       "incorrect_answers":[
          "Halcyon",
@@ -5727,7 +5727,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which band released the album &quot;Sonic Highways&quot; in 2014?",
+      "question":"Which band released the album 'Sonic Highways' in 2014?",
       "correct_answer":"Foo Fighters",
       "incorrect_answers":[
          "Coldplay",
@@ -5739,7 +5739,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which rock band released the album &quot;The Bends&quot; in March 1995?",
+      "question":"Which rock band released the album 'The Bends' in March 1995?",
       "correct_answer":"Radiohead",
       "incorrect_answers":[
          "Nirvana",
@@ -5763,11 +5763,11 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?",
-      "correct_answer":"Baba O&#039; Riley",
+      "question":"The Who's eponymous line, 'Teenage Wasteland', appears in which of their songs?",
+      "correct_answer":"Baba O' Riley",
       "incorrect_answers":[
          "The Seeker",
-         "Won&#039;t Get Fooled Again",
+         "Won't Get Fooled Again",
          "Pinball Wizard"
       ]
    },
@@ -5775,8 +5775,8 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?",
-      "correct_answer":"Jeff Lynne&#039;s Electric Light Orchestra",
+      "question":"Which artist or group did John Lennon consider 'son(s) of the Beatles'?",
+      "correct_answer":"Jeff Lynne's Electric Light Orchestra",
       "incorrect_answers":[
          "The Rolling Stones",
          "Pink Floyd",
@@ -5787,7 +5787,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"&quot;Make You Feel My Love&quot; was originally written and performed by which singer-songwriter?",
+      "question":"'Make You Feel My Love' was originally written and performed by which singer-songwriter?",
       "correct_answer":"Bob Dylan",
       "incorrect_answers":[
          "Elvis",
@@ -5799,8 +5799,8 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which album by American rapper Kanye West contained songs such as &quot;Love Lockdown&quot;, &quot;Paranoid&quot; and &quot;Heartless&quot;?",
-      "correct_answer":"808s &amp; Heartbreak",
+      "question":"Which album by American rapper Kanye West contained songs such as 'Love Lockdown', 'Paranoid' and 'Heartless'?",
+      "correct_answer":"808s & Heartbreak",
       "incorrect_answers":[
          "Late Registration",
          "The Life of Pablo",
@@ -5811,7 +5811,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which Iron Maiden album did the song &quot;Dream of Mirrors&quot; feature in?",
+      "question":"Which Iron Maiden album did the song 'Dream of Mirrors' feature in?",
       "correct_answer":"Brave New World",
       "incorrect_answers":[
          "Dance of Death",
@@ -5823,7 +5823,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Who performed the guitar solo on Michael Jackson&#039;s hit &quot;Beat It&quot;?",
+      "question":"Who performed the guitar solo on Michael Jackson's hit 'Beat It'?",
       "correct_answer":"Eddie Van Halen",
       "incorrect_answers":[
          "Steve Vai",
@@ -5835,7 +5835,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"The &#039;In the Flesh&#039; tour was used in support of what Pink Floyd album?",
+      "question":"The 'In the Flesh' tour was used in support of what Pink Floyd album?",
       "correct_answer":"Animals",
       "incorrect_answers":[
          "The Wall",
@@ -5859,7 +5859,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which alternative rock band released the critically-acclaimed album &quot;OK Computer&quot;?",
+      "question":"Which alternative rock band released the critically-acclaimed album 'OK Computer'?",
       "correct_answer":"Radiohead",
       "incorrect_answers":[
          "R.E.M.",
@@ -5871,7 +5871,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What date is referenced in the 1971 song &quot;September&quot; by Earth, Wind &amp; Fire?",
+      "question":"What date is referenced in the 1971 song 'September' by Earth, Wind & Fire?",
       "correct_answer":"21st of September",
       "incorrect_answers":[
          "26th of September",
@@ -5883,7 +5883,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which novelty band was best known for their UK chart hits &quot;Combine Harvester&quot; and &quot;I Am a Cider Drinker&quot; in 1976?",
+      "question":"Which novelty band was best known for their UK chart hits 'Combine Harvester' and 'I Am a Cider Drinker' in 1976?",
       "correct_answer":"The Wurzels",
       "incorrect_answers":[
          "Goldie Lookin Chain",
@@ -5895,7 +5895,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"&#039;74&ndash;&#039;75 is a 1993 single from the album Ring by what American band?",
+      "question":"'74–'75 is a 1993 single from the album Ring by what American band?",
       "correct_answer":"The Connells",
       "incorrect_answers":[
          "R.E.M.",
@@ -5919,7 +5919,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which Aerosmith album featured &quot;Walk This Way&quot;?",
+      "question":"Which Aerosmith album featured 'Walk This Way'?",
       "correct_answer":"Toys in the Attic",
       "incorrect_answers":[
          "Rocks",
@@ -5931,7 +5931,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which artist curated the official soundtrack for &quot;The Hunger Games: Mockingjay - Part 1&quot;?",
+      "question":"Which artist curated the official soundtrack for 'The Hunger Games: Mockingjay - Part 1'?",
       "correct_answer":"Lorde",
       "incorrect_answers":[
          "Kanye West",
@@ -5943,7 +5943,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is the opening track on Lorde&#039;s Pure Heroine?",
+      "question":"What is the opening track on Lorde's Pure Heroine?",
       "correct_answer":"Tennis Court",
       "incorrect_answers":[
          "Team",
@@ -5955,11 +5955,11 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"&quot;The Genius&quot; is the original and secondary name of which Wu-Tang Clan member?",
+      "question":"'The Genius' is the original and secondary name of which Wu-Tang Clan member?",
       "correct_answer":"GZA",
       "incorrect_answers":[
          "Ghostface Killah",
-         "Ol&#039; Dirty Bastard",
+         "Ol' Dirty Bastard",
          "Raekwon the Chef"
       ]
    },
@@ -5979,7 +5979,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+      "question":"On the cover of 'Abbey Road,' which of the Beatles is not wearing shoes?",
       "correct_answer":"Paul McCartney",
       "incorrect_answers":[
          "Ringo Starr",
@@ -5991,7 +5991,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which one of these people has been in the band &#039;&#039;Metallica&#039;&#039; in the past?",
+      "question":"Which one of these people has been in the band ''Metallica'' in the past?",
       "correct_answer":"Dave Mustaine",
       "incorrect_answers":[
          "Kurt Cobain",
@@ -6015,7 +6015,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What M83 was featured in Grand Theft Auto V&#039;s radio?",
+      "question":"What M83 was featured in Grand Theft Auto V's radio?",
       "correct_answer":"Midnight City",
       "incorrect_answers":[
          "Outro",
@@ -6027,7 +6027,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which Elton John hit starts with the line &quot;When are you gonna come down&quot;?",
+      "question":"Which Elton John hit starts with the line 'When are you gonna come down'?",
       "correct_answer":"Goodbye Yellow Brick Road",
       "incorrect_answers":[
          "Rocket Man",
@@ -6052,18 +6052,18 @@
       "type":"multiple",
       "difficulty":"hard",
       "question":"Which of these songs was released in 1996?",
-      "correct_answer":"The Smashing Pumpkins - &quot;1979&quot;",
+      "correct_answer":"The Smashing Pumpkins - '1979'",
       "incorrect_answers":[
-         "Prince - &quot;1999&quot;",
-         "James Blunt - &quot;1973&quot;",
-         "David Bowie - &quot;1984&quot;"
+         "Prince - '1999'",
+         "James Blunt - '1973'",
+         "David Bowie - '1984'"
       ]
    },
    {
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who had a 1981 hit with the song &quot;Japanese Boy&quot;?",
+      "question":"Who had a 1981 hit with the song 'Japanese Boy'?",
       "correct_answer":"Aneka",
       "incorrect_answers":[
          "Toyah",
@@ -6075,7 +6075,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which member of the English band &quot;The xx&quot; released their solo album &quot;In Colour&quot; in 2015?",
+      "question":"Which member of the English band 'The xx' released their solo album 'In Colour' in 2015?",
       "correct_answer":"Jamie xx",
       "incorrect_answers":[
          "Romy Madley Croft",
@@ -6087,7 +6087,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which song in rapper Kanye West&#039;s album &quot;The Life of Pablo&quot; features Rihanna?",
+      "question":"Which song in rapper Kanye West's album 'The Life of Pablo' features Rihanna?",
       "correct_answer":"Famous",
       "incorrect_answers":[
          "Wolves",
@@ -6099,7 +6099,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"How many members are there in the idol group &quot;&micro;&#039;s&quot;?",
+      "question":"How many members are there in the idol group 'µ's'?",
       "correct_answer":"9",
       "incorrect_answers":[
          "48",
@@ -6112,9 +6112,9 @@
       "type":"multiple",
       "difficulty":"hard",
       "question":"What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
-      "correct_answer":"Entra&ntilde;as",
+      "correct_answer":"Entrañas",
       "incorrect_answers":[
-         "&amp;&amp;&amp;&amp;&amp;&amp;",
+         "&&&&&&",
          "Sheep",
          "Xen"
       ]
@@ -6159,7 +6159,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+      "question":"Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume & Chet Faker?",
       "correct_answer":"Left Alone",
       "incorrect_answers":[
          "What About Us",
@@ -6195,12 +6195,12 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the English title of the vaporwave track &quot;リサフランク420 / 現代のコンピュー&quot; by Macintosh Plus (Vektroid)?",
+      "question":"What is the English title of the vaporwave track 'リサフランク420 / 現代のコンピュー' by Macintosh Plus (Vektroid)?",
       "correct_answer":"Lisa Frank 420 / Modern Computing",
       "incorrect_answers":[
          "Smoke Weed 420 / Everyday",
          "Make Your Move 420 / My Mind",
-         "It&#039;s All In Your Head 420 / Understand"
+         "It's All In Your Head 420 / Understand"
       ]
    },
    {
@@ -6231,7 +6231,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+      "question":"In Kendrick Lamar's 2012 album, 'Good Kid, M.A.A.D City', the album's story takes place in which city?",
       "correct_answer":"Compton",
       "incorrect_answers":[
          "Detroit",
@@ -6279,19 +6279,19 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In the Panic! At the Disco&#039;s song &quot;Nothern Downpour&quot;, which lyric follows &#039;I know the world&#039;s a broken bone&#039;.",
-      "correct_answer":"&quot;So melt your headaches call it home&quot;",
+      "question":"In the Panic! At the Disco's song 'Nothern Downpour', which lyric follows 'I know the world's a broken bone'.",
+      "correct_answer":"'So melt your headaches call it home'",
       "incorrect_answers":[
-         "&quot;So sing your song until you&#039;re home&quot;",
-         "&quot;So let them know they&#039;re on their own&quot;",
-         "&quot;So start a fire in their cold stone&quot;"
+         "'So sing your song until you're home'",
+         "'So let them know they're on their own'",
+         "'So start a fire in their cold stone'"
       ]
    },
    {
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+      "question":"What is the name of the song by Beyoncé and Alejandro Fernández released in 2007?",
       "correct_answer":"Amor Gitano",
       "incorrect_answers":[
          "La ultima vez",
@@ -6303,7 +6303,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who wrote the song &quot;You Know You Like It&quot;?",
+      "question":"Who wrote the song 'You Know You Like It'?",
       "correct_answer":"AlunaGeorge",
       "incorrect_answers":[
          "DJ Snake",
@@ -6315,11 +6315,11 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the first Studio Album to be released on the Internet with a &quot;Pay-What-You-Want&quot; price?",
+      "question":"What is the first Studio Album to be released on the Internet with a 'Pay-What-You-Want' price?",
       "correct_answer":"In Rainbows",
       "incorrect_answers":[
          "The Help Album",
-         "Skrillex and Diplo Present Jack &Uuml;",
+         "Skrillex and Diplo Present Jack Ü",
          "Blackstar"
       ]
    },
@@ -6327,7 +6327,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which of Michael Jackson&#039;s albums sold the most copies?",
+      "question":"Which of Michael Jackson's albums sold the most copies?",
       "correct_answer":"Thriller",
       "incorrect_answers":[
          "Dangerous",
@@ -6339,7 +6339,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What year was Min Yoongi from South Korea boy band &quot;BTS&quot; born in?",
+      "question":"What year was Min Yoongi from South Korea boy band 'BTS' born in?",
       "correct_answer":"1993",
       "incorrect_answers":[
          "1992",
@@ -6363,12 +6363,12 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who is a pioneer of &quot;Minimal Music&quot; in 1960s?",
+      "question":"Who is a pioneer of 'Minimal Music' in 1960s?",
       "correct_answer":"Steve Reich",
       "incorrect_answers":[
          "Wolfgang Amadeus Mozart",
          "Brian Eno",
-         "Sigur R&oacute;s"
+         "Sigur Rós"
       ]
    },
    {
@@ -6387,7 +6387,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the stage name of New Zealand singer Phillipa &quot;Pip&quot; Brown?",
+      "question":"What is the stage name of New Zealand singer Phillipa 'Pip' Brown?",
       "correct_answer":"Ladyhawke",
       "incorrect_answers":[
          "Lorde",
@@ -6414,7 +6414,7 @@
       "question":"Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
       "correct_answer":"Dog Blood",
       "incorrect_answers":[
-         "Jack &Uuml;",
+         "Jack Ü",
          "What So Not",
          "Noisia"
       ]
@@ -6424,11 +6424,11 @@
       "type":"multiple",
       "difficulty":"hard",
       "question":"Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
-      "correct_answer":"&quot;A rainy Lithuanian / Is dancing as an Indian&quot;",
+      "correct_answer":"'A rainy Lithuanian / Is dancing as an Indian'",
       "incorrect_answers":[
-         "&quot;Fly away on, my zephyr / I feel it more than ever&quot;",
-         "&quot;And I liked the dimple in your chin / Your pale blue eyes&quot;",
-         "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+         "'Fly away on, my zephyr / I feel it more than ever'",
+         "'And I liked the dimple in your chin / Your pale blue eyes'",
+         "'You used to be so warm and affectionate...but now you're quick to get into your regret'"
       ]
    },
    {
@@ -6447,7 +6447,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+      "question":"Björk's 'Unison' contains a sample of which Oval song?",
       "correct_answer":"Aero Deck",
       "incorrect_answers":[
          "Textuell",
@@ -6483,7 +6483,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the official name of Prince&#039;s backing band?",
+      "question":"What is the official name of Prince's backing band?",
       "correct_answer":"The Revolution",
       "incorrect_answers":[
          "The Paupers",
@@ -6523,7 +6523,7 @@
       "correct_answer":"Tragedy",
       "incorrect_answers":[
          "Night Fever",
-         "Stayin&#039; Alive",
+         "Stayin' Alive",
          "You Should Be Dancing"
       ]
    },
@@ -6555,7 +6555,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who sings the rap song &quot;Secret Wars Part 1&quot;?",
+      "question":"Who sings the rap song 'Secret Wars Part 1'?",
       "correct_answer":"The Last Emperor",
       "incorrect_answers":[
          "MC Frontalot",
@@ -6579,7 +6579,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+      "question":"Which of these artists did NOT feature in the fitfh studio album 'Humanz' by British virtual band Gorillaz?",
       "correct_answer":"Snoop Dogg",
       "incorrect_answers":[
          "Vince Staples",
@@ -6603,7 +6603,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What year did Dire Straits&#039;s Song &quot;Money for Nothing&quot; release?",
+      "question":"What year did Dire Straits's Song 'Money for Nothing' release?",
       "correct_answer":"1985",
       "incorrect_answers":[
          "1973",
@@ -6615,7 +6615,7 @@
       "category":"Music",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Panic! At the Disco&#039;s sixth album &quot;Pray For The Wicked&quot; was released on which date?",
+      "question":"Panic! At the Disco's sixth album 'Pray For The Wicked' was released on which date?",
       "correct_answer":"June 22, 2018",
       "incorrect_answers":[
          "May 9, 2018",
@@ -6640,11 +6640,11 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"In any programming language, what is the most common way to iterate through an array?",
-      "correct_answer":"&#039;For&#039; loops",
+      "correct_answer":"'For' loops",
       "incorrect_answers":[
-         "&#039;If&#039; Statements",
-         "&#039;Do-while&#039; loops",
-         "&#039;While&#039; loops"
+         "'If' Statements",
+         "'Do-while' loops",
+         "'While' loops"
       ]
    },
    {
@@ -6663,7 +6663,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What does the &quot;MP&quot; stand for in MP3?",
+      "question":"What does the 'MP' stand for in MP3?",
       "correct_answer":"Moving Picture",
       "incorrect_answers":[
          "Music Player",
@@ -6711,7 +6711,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "question":"The programming language 'Swift' was created to replace what other programming language?",
       "correct_answer":"Objective-C",
       "incorrect_answers":[
          "C#",
@@ -6759,7 +6759,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "question":"In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
       "correct_answer":"Final",
       "incorrect_answers":[
          "Static",
@@ -6771,7 +6771,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "question":"If you were to code software in this language you'd only be able to type 0's and 1's.",
       "correct_answer":"Binary",
       "incorrect_answers":[
          "JavaScript",
@@ -6784,10 +6784,10 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"What does the Prt Sc button do?",
-      "correct_answer":"Captures what&#039;s on the screen and copies it to your clipboard",
+      "correct_answer":"Captures what's on the screen and copies it to your clipboard",
       "incorrect_answers":[
          "Nothing",
-         "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+         "Saves a .png file of what's on the screen in your screenshots folder in photos",
          "Closes all windows"
       ]
    },
@@ -6879,7 +6879,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+      "question":"In 'Hexadecimal', what color would be displayed from the color code? '#00FF00'?",
       "correct_answer":"Green",
       "incorrect_answers":[
          "Red",
@@ -7035,7 +7035,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+      "question":"Which internet company began life as an online bookstore called 'Cadabra'?",
       "correct_answer":"Amazon",
       "incorrect_answers":[
          "eBay",
@@ -7059,7 +7059,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+      "question":"Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
       "correct_answer":"Year",
       "incorrect_answers":[
          "Four Years",
@@ -7083,7 +7083,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"When was the programming language &quot;C#&quot; released?",
+      "question":"When was the programming language 'C#' released?",
       "correct_answer":"2000",
       "incorrect_answers":[
          "1998",
@@ -7124,14 +7124,14 @@
       "incorrect_answers":[
          "United States",
          "Germany",
-         "China (People&#039;s Republic of)"
+         "China (People's Republic of)"
       ]
    },
    {
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+      "question":"Nvidia's headquarters are based in which Silicon Valley city?",
       "correct_answer":"Santa Clara",
       "incorrect_answers":[
          "Palo Alto",
@@ -7275,12 +7275,12 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
-      "correct_answer":"print(&quot;Hello World&quot;)",
+      "question":"In the programming language 'Python', which of these statements would display the string 'Hello World' correctly?",
+      "correct_answer":"print('Hello World')",
       "incorrect_answers":[
-         "console.log(&quot;Hello World&quot;)",
-         "echo &quot;Hello World&quot;",
-         "printf(&quot;Hello World&quot;)"
+         "console.log('Hello World')",
+         "echo 'Hello World'",
+         "printf('Hello World')"
       ]
    },
    {
@@ -7288,18 +7288,18 @@
       "type":"multiple",
       "difficulty":"medium",
       "question":"In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
-      "correct_answer":"&lt;marquee&gt;&lt;/marquee&gt;",
+      "correct_answer":"<marquee></marquee>",
       "incorrect_answers":[
-         "&lt;scroll&gt;&lt;/scroll&gt;",
-         "&lt;move&gt;&lt;/move&gt;",
-         "&lt;slide&gt;&lt;/slide&gt;"
+         "<scroll></scroll>",
+         "<move></move>",
+         "<slide></slide>"
       ]
    },
    {
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+      "question":"In CSS, which of these values CANNOT be used with the 'position' property?",
       "correct_answer":"center",
       "incorrect_answers":[
          "static",
@@ -7371,7 +7371,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What does &quot;LCD&quot; stand for?",
+      "question":"What does 'LCD' stand for?",
       "correct_answer":"Liquid Crystal Display",
       "incorrect_answers":[
          "Language Control Design",
@@ -7431,7 +7431,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What is known as &quot;the brain&quot; of the Computer?",
+      "question":"What is known as 'the brain' of the Computer?",
       "correct_answer":"Central Processing Unit",
       "incorrect_answers":[
          "Motherboard",
@@ -7479,7 +7479,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"When did the online streaming service &quot;Mixer&quot; launch?",
+      "question":"When did the online streaming service 'Mixer' launch?",
       "correct_answer":"2016",
       "incorrect_answers":[
          "2013",
@@ -7603,7 +7603,7 @@
       "correct_answer":"Midnight, January 1, 1970",
       "incorrect_answers":[
          "Midnight, July 4, 1976",
-         "Midnight on the creator of Unix&#039;s birthday",
+         "Midnight on the creator of Unix's birthday",
          "Midnight, July 4, 1980"
       ]
    },
@@ -7623,7 +7623,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+      "question":"What does the 'S' in the RSA encryption algorithm stand for?",
       "correct_answer":"Shamir",
       "incorrect_answers":[
          "Secure",
@@ -7827,7 +7827,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What was the first company to use the term &quot;Golden Master&quot;?",
+      "question":"What was the first company to use the term 'Golden Master'?",
       "correct_answer":"Apple",
       "incorrect_answers":[
          "IBM",
@@ -7839,7 +7839,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+      "question":"Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
       "correct_answer":"Cheetah",
       "incorrect_answers":[
          "Puma",
@@ -7887,7 +7887,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who invented the &quot;Spanning Tree Protocol&quot;?",
+      "question":"Who invented the 'Spanning Tree Protocol'?",
       "correct_answer":"Radia Perlman",
       "incorrect_answers":[
          "Paul Vixie",
@@ -7899,12 +7899,12 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
-      "correct_answer":"A&#039; + B&#039;",
+      "question":"According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:",
+      "correct_answer":"A' + B'",
       "incorrect_answers":[
-         "A&#039;B + B&#039;A",
-         "A&#039;B&#039;",
-         "AB&#039; + AB"
+         "A'B + B'A",
+         "A'B'",
+         "AB' + AB"
       ]
    },
    {
@@ -7923,7 +7923,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The acronym &quot;RIP&quot; stands for which of these?",
+      "question":"The acronym 'RIP' stands for which of these?",
       "correct_answer":"Routing Information Protocol",
       "incorrect_answers":[
          "Runtime Instance Processes",
@@ -7995,7 +7995,7 @@
       "category":"Computers",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "question":"Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
       "correct_answer":"2005",
       "incorrect_answers":[
          "1999",
@@ -8166,7 +8166,7 @@
       "question":"Which of the following African countries was most successful in resisting colonization?",
       "correct_answer":"Ethiopia",
       "incorrect_answers":[
-         "C&ocirc;te d&rsquo;Ivoire",
+         "Côte d’Ivoire",
          "Congo",
          "Namibia"
       ]
@@ -8187,7 +8187,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+      "question":"Which famous world leader is famed for the saying, 'Let them eat cake', yet is rumored that he/she never said it at all?",
       "correct_answer":"Marie Antoinette",
       "incorrect_answers":[
          "Czar Nicholas II",
@@ -8235,7 +8235,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What was Manfred von Richthofen&#039;s nickname?",
+      "question":"What was Manfred von Richthofen's nickname?",
       "correct_answer":"The Red Baron",
       "incorrect_answers":[
          "The High Flying Ace",
@@ -8403,7 +8403,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+      "question":"The 'Trail of Tears' was a result of which United States President's Indian Removal Policy?",
       "correct_answer":"Andrew Jackson",
       "incorrect_answers":[
          "Harry S. Truman",
@@ -8475,7 +8475,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+      "question":"Which modern country is known as 'The Graveyard of Empires'?",
       "correct_answer":"Afghanistan",
       "incorrect_answers":[
          "China",
@@ -8564,7 +8564,7 @@
       "incorrect_answers":[
          "Baker Street",
          "Houses of Parliament",
-         "St Paul&#039;s Cathedral"
+         "St Paul's Cathedral"
       ]
    },
    {
@@ -8608,7 +8608,7 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"Abolitionist John Brown raided the arsenal in which Virginia Town?",
-      "correct_answer":"Harper&#039;s Ferry",
+      "correct_answer":"Harper's Ferry",
       "incorrect_answers":[
          "Richmond",
          "Harrisonburg",
@@ -8691,7 +8691,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"What historical event was Tchaikovsky&#039;s 1812 Overture referencing?",
+      "question":"What historical event was Tchaikovsky's 1812 Overture referencing?",
       "correct_answer":"The Napoleonic Wars",
       "incorrect_answers":[
          "The American War of 1812",
@@ -8823,7 +8823,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?",
+      "question":"When was 'The Gadget', the first nuclear device to be detonated, tested?",
       "correct_answer":"July 16, 1945",
       "incorrect_answers":[
          "June 22, 1945",
@@ -8835,7 +8835,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"On which day did the attempted coup d&#039;etat of 1991 in the Soviet Union begin?",
+      "question":"On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
       "correct_answer":"August 19",
       "incorrect_answers":[
          "August 21",
@@ -9063,7 +9063,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"When was the People&#039;s Republic of China founded?",
+      "question":"When was the People's Republic of China founded?",
       "correct_answer":"October 1, 1949",
       "incorrect_answers":[
          "April 3, 1947",
@@ -9079,7 +9079,7 @@
       "correct_answer":"General Electric",
       "incorrect_answers":[
          "Colt Firearms",
-         "Heckler &amp; Koch",
+         "Heckler & Koch",
          "Sig Sauer"
       ]
    },
@@ -9147,7 +9147,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which Louis was known as &#039;The Sun King of France&#039;?",
+      "question":"Which Louis was known as 'The Sun King of France'?",
       "correct_answer":"Louis XIV",
       "incorrect_answers":[
          "Louis XIII",
@@ -9255,7 +9255,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+      "question":"Pianist Frédéric Chopin was a composer of which musical era?",
       "correct_answer":"Romantic",
       "incorrect_answers":[
          "Classic",
@@ -9283,7 +9283,7 @@
       "correct_answer":"Aragon",
       "incorrect_answers":[
          "Galicia",
-         "Le&oacute;n",
+         "León",
          "Navarre"
       ]
    },
@@ -9295,7 +9295,7 @@
       "correct_answer":"Culper Ring",
       "incorrect_answers":[
          "New York Spy Ring",
-         "Washington&#039;s Spies",
+         "Washington's Spies",
          "Unnamed"
       ]
    },
@@ -9351,7 +9351,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What did the first vending machines in the early 1880&#039;s dispense?",
+      "question":"What did the first vending machines in the early 1880's dispense?",
       "correct_answer":"Post cards",
       "incorrect_answers":[
          "Alcohol",
@@ -9375,7 +9375,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+      "question":"During the Wars of the Roses (1455 - 1487) which Englishman was dubbed 'the Kingmaker'?",
       "correct_answer":"Richard Neville",
       "incorrect_answers":[
          "Richard III",
@@ -9435,7 +9435,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+      "question":"Who invented the 'Flying Shuttle' in 1738; one of the key developments in the industrialization of weaving?",
       "correct_answer":"John Kay",
       "incorrect_answers":[
          "James Hargreaves",
@@ -9555,7 +9555,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"When was the &quot;Siege of Leningrad&quot; lifted during World War II?",
+      "question":"When was the 'Siege of Leningrad' lifted during World War II?",
       "correct_answer":"January 1944",
       "incorrect_answers":[
          "September 1943",
@@ -9567,7 +9567,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+      "question":"The main objective of the German operation 'Case Blue' during World War II was originally to capture what?",
       "correct_answer":"Caucasus",
       "incorrect_answers":[
          "Stalingrad",
@@ -9579,7 +9579,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+      "question":"Which of the following was not one of Joseph Stalin's ten blows during World War II?",
       "correct_answer":"Vistula-Oder Offensive",
       "incorrect_answers":[
          "Crimean Offensive",
@@ -9591,7 +9591,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What did the abbreviation &quot;RMS&quot; stand for in the RMS Titanic in 1912?",
+      "question":"What did the abbreviation 'RMS' stand for in the RMS Titanic in 1912?",
       "correct_answer":"Royal Mail Ship",
       "incorrect_answers":[
          "Royal Majesty Service",
@@ -9603,7 +9603,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In addition to his career as an astrologer and &quot;prophet&quot;, Nostradamus published a 1555 treatise that included a section on what?",
+      "question":"In addition to his career as an astrologer and 'prophet', Nostradamus published a 1555 treatise that included a section on what?",
       "correct_answer":"Making jams and jellies",
       "incorrect_answers":[
          "Teaching parrots to talk",
@@ -9627,7 +9627,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+      "question":"Which King of England was faced with the Peasants' Revolt in 1381?",
       "correct_answer":"Richard II",
       "incorrect_answers":[
          "Edward III",
@@ -9639,7 +9639,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The ancient city of Chich&eacute;n Itz&aacute; was built by which civilization?",
+      "question":"The ancient city of Chichén Itzá was built by which civilization?",
       "correct_answer":"Mayans",
       "incorrect_answers":[
          "Aztecs",
@@ -9699,7 +9699,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"During World War I, which nation&#039;s monarchs were blood related?",
+      "question":"During World War I, which nation's monarchs were blood related?",
       "correct_answer":"England, Germany, Russia",
       "incorrect_answers":[
          "France, Russia, Germany",
@@ -9747,7 +9747,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+      "question":"The son of which pope supposedly held a lecherous fête involving 50 courtesans in the papal palace?",
       "correct_answer":"Alexander VI",
       "incorrect_answers":[
          "Innocent V",
@@ -9759,10 +9759,10 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"The ontological argument for the proof of God&#039;s existence is first attributed to whom?",
+      "question":"The ontological argument for the proof of God's existence is first attributed to whom?",
       "correct_answer":"Anselm of Canterbury",
       "incorrect_answers":[
-         "Ren&eacute; Descartes",
+         "René Descartes",
          "Immanuel Kant",
          "Aristotle"
       ]
@@ -9831,7 +9831,7 @@
       "category":"History",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?",
+      "question":"What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic bomb on Hiroshima?",
       "correct_answer":"Enola Gay",
       "incorrect_answers":[
          "Necessary Evil",
@@ -9987,7 +9987,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+      "question":"The derisive acronym 'PIIGS' refers to which of the following European countries and their economic statuses?",
       "correct_answer":"Portugal, Ireland, Italy, Greece, Spain",
       "incorrect_answers":[
          "Poland, Iceland, Italy, Greece, Serbia",
@@ -10036,11 +10036,11 @@
       "type":"multiple",
       "difficulty":"easy",
       "question":"What is the 15th letter of the Greek alphabet?",
-      "correct_answer":"Omicron (&Omicron;)",
+      "correct_answer":"Omicron (Ο)",
       "incorrect_answers":[
-         "Sigma (&Sigma;)",
-         "Pi (&Pi;)",
-         "Nu (&Nu;)"
+         "Sigma (Σ)",
+         "Pi (Π)",
+         "Nu (Ν)"
       ]
    },
    {
@@ -10074,8 +10074,8 @@
       "question":"What name was historically used for the Turkish city currently known as Istanbul?",
       "correct_answer":"Constantinople",
       "incorrect_answers":[
-         "H&uuml;davendigar",
-         "S&ouml;ğ&uuml;t",
+         "HÜdavendigar",
+         "SöğÜt",
          "Adrianople"
       ]
    },
@@ -10167,7 +10167,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"Which of these African countries list &quot;Spanish&quot; as an official language?",
+      "question":"Which of these African countries list 'Spanish' as an official language?",
       "correct_answer":"Equatorial Guinea",
       "incorrect_answers":[
          "Guinea",
@@ -10227,7 +10227,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is Canada&#039;s smallest province?",
+      "question":"What is Canada's smallest province?",
       "correct_answer":"Prince Edward Island",
       "incorrect_answers":[
          "New Brunswick",
@@ -10275,7 +10275,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"easy",
-      "question":"What is the name of New Zealand&#039;s indigenous people?",
+      "question":"What is the name of New Zealand's indigenous people?",
       "correct_answer":"Maori",
       "incorrect_answers":[
          "Vikings",
@@ -10506,7 +10506,7 @@
       "question":"Which city is the capital of Switzerland?",
       "correct_answer":"Bern",
       "incorrect_answers":[
-         "Z&uuml;rich",
+         "ZÜrich",
          "Frankfurt",
          "Wien"
       ]
@@ -10568,7 +10568,7 @@
       "incorrect_answers":[
          "Asturias",
          "Navarre",
-         "Le&oacute;n"
+         "León"
       ]
    },
    {
@@ -10779,7 +10779,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which country has the abbreviation &quot;CH&quot;?",
+      "question":"Which country has the abbreviation 'CH'?",
       "correct_answer":"Switzerland",
       "incorrect_answers":[
          "China",
@@ -10888,7 +10888,7 @@
       "type":"multiple",
       "difficulty":"medium",
       "question":"What was the most populous city in the Americas in 2015?",
-      "correct_answer":"S&atilde;o Paulo",
+      "correct_answer":"São Paulo",
       "incorrect_answers":[
          "New York",
          "Mexico City",
@@ -10923,7 +10923,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Colchester Overpass, otherwise known as &quot;Bunny Man Bridge&quot;, is located where?",
+      "question":"Colchester Overpass, otherwise known as 'Bunny Man Bridge', is located where?",
       "correct_answer":"Fairfax County, Virginia",
       "incorrect_answers":[
          "Medford, Oregon",
@@ -11019,7 +11019,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"medium",
-      "question":"Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+      "question":"Which of the following is not a megadiverse country - one that harbors a high number of the earth's endemic species?",
       "correct_answer":"Thailand",
       "incorrect_answers":[
          "Peru",
@@ -11166,7 +11166,7 @@
       "question":"What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
       "correct_answer":"Lishana Deni",
       "incorrect_answers":[
-         "Hulaul&aacute;",
+         "Hulaulá",
          "Lishan Didan",
          "Chaldean Neo-Aramaic"
       ]
@@ -11187,7 +11187,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
+      "question":"In 2012 the German-speaking microstate 'Liechtenstein' in Central Europe had a population of how many inhabitants?",
       "correct_answer":"36,600",
       "incorrect_answers":[
          "2,400",
@@ -11235,7 +11235,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Where is the fast food chain &quot;Panda Express&quot; headquartered?",
+      "question":"Where is the fast food chain 'Panda Express' headquartered?",
       "correct_answer":"Rosemead, California",
       "incorrect_answers":[
          "Sacramento, California",
@@ -11247,7 +11247,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
+      "question":"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch is located on which Welsh island?",
       "correct_answer":"Anglesey",
       "incorrect_answers":[
          "Barry",
@@ -11343,11 +11343,11 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What is the Finnish word for &quot;Finland&quot;?",
+      "question":"What is the Finnish word for 'Finland'?",
       "correct_answer":"Suomi",
       "incorrect_answers":[
          "Eesti",
-         "Magyarorsz&aacute;g",
+         "Magyarország",
          "Sverige"
       ]
    },
@@ -11367,7 +11367,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+      "question":"What North American tourist attraction is served by the 'Maid of the Mist' tour company?",
       "correct_answer":"Niagara Falls",
       "incorrect_answers":[
          "Whistler, British Columbia",
@@ -11451,7 +11451,7 @@
       "category":"Geography",
       "type":"multiple",
       "difficulty":"hard",
-      "question":"Which of these cities has a 4&deg; East longitude. ",
+      "question":"Which of these cities has a 4° East longitude. ",
       "correct_answer":"Amsterdam",
       "incorrect_answers":[
          "Rio de Janero",
