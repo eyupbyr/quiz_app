@@ -40,8 +40,19 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   late String _selectedAnswer;
   String get selectedAnswer => this._selectedAnswer;
 
+  //for score screen
   int _correctAnswerCount = 0;
   int get correctAnswerCount => this._correctAnswerCount;
+
+  //for answers screen
+  late List<Question> _quizQuestions;
+  List<Question> get quizQuestions => this._quizQuestions;
+  void set quizQuestions(List<Question> value) => this._quizQuestions = value;
+
+  late List<String> _givenAnswers;
+  List<String> get givenAnswers => this._givenAnswers;
+  void set givenAnswers(List<String> value) => this._givenAnswers = value;
+
 
   late QuestionDao _questionDao;
   QuestionDao get questionDao => this._questionDao;
@@ -60,10 +71,16 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
     });
 
     //start the countdown animation  
-    _animationController.forward().whenComplete(nextQuestion); //if the counter completed before answering the question
+    _animationController.forward().whenComplete(()
+      {
+        _selectedAnswer = "-";
+        givenAnswers.add(_selectedAnswer); // add empty answer to the list because question is not answered
+        nextQuestion();
+      }); //if the counter completed before answering the question
                                                                 //go to next question
 
     _pageController = PageController();
+    _givenAnswers = [];
 
     super.onInit();
   }
@@ -79,6 +96,7 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
       _isAnswered = true;
       _correctAnswer = question.correctAnswer;
       _selectedAnswer = selectedAnswer;
+      givenAnswers.add(selectedAnswer);
 
       if(_correctAnswer == _selectedAnswer) 
         _correctAnswerCount++;
@@ -100,7 +118,12 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
       // reset the countdown counter and start again
       _animationController.reset();
-      _animationController.forward().whenComplete(nextQuestion); //if the counter completed before answering the question
+      _animationController.forward().whenComplete(()
+      {
+        _selectedAnswer = "-";
+        givenAnswers.add(selectedAnswer); // add empty answer to the list because question is not answered
+        nextQuestion();
+      }); //if the counter completed before answering the question
                                                                  //go to next question
     }
     else {
@@ -110,6 +133,8 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   void updateQuestionNumber(int index){
     _questionNumber.value = index + 1;
+    if(_selectedAnswer == "");
+      
   }
 
   void resetEverything()

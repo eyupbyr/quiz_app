@@ -35,11 +35,10 @@ class _QuizScreenState extends State<QuizScreen> {
               stream: questionDao.selectQuizQuestions(_settingsController.category, _settingsController.difficulty.toLowerCase(), int.parse(_settingsController.numberOfQuestions)),
               builder: (context, AsyncSnapshot  snapshot) {
                 if (!snapshot.hasData) return Container();
-
+                
                 final questions = snapshot.data;
                 _questionController.questionCount = questions.length;
-
-                print(questions);
+                _questionController.quizQuestions = questions;
 
                 return Column(
                   crossAxisAlignment: CrossAxisAlignment.start,

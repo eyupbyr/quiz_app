@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
+import 'package:quiz_app/screens/answerscreen/answer_screen.dart';
 import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 
 import '../../constants.dart';
@@ -54,7 +55,7 @@ class ScoreScreen extends StatelessWidget {
                       ),
                     ),
                     InkWell(
-                      onTap: () => {},
+                      onTap: () => {Get.to(() => AnswerScreen())},
                       child: Container(
                         height: 85,
                         width: 135,
