@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:get/get.dart';
 import 'package:quiz_app/db/dao/question_dao.dart';
-import 'package:quiz_app/models/Questions.dart';
 
 import '../mainscreen/components/category.dart';
 
@@ -33,7 +31,7 @@ class MainScreen extends StatelessWidget {
                         style: Theme.of(context).textTheme.headline3!.copyWith(color: Colors.white, fontWeight: FontWeight.bold)
                       ),
                       SizedBox(height: 80,),
-                      Text("Choose a category!"),
+                      Text("Choose a category!", style: TextStyle(fontSize: 18),),
                       SizedBox(height: 30,),
                       Column(
                         children: [

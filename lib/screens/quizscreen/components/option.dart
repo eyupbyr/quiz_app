@@ -31,7 +31,7 @@ class Option extends StatelessWidget {
                 return RedColor;
             }
           }
-          return GrayColor;
+          return Colors.grey;
         }
 
         IconData getTheRightIcon() {
@@ -50,19 +50,21 @@ class Option extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Text(
-                  "${index +1}. $text",
-                  style: TextStyle(color: getTheRightColor(), fontSize: 16),
+                Flexible(
+                  child: Text(
+                    "${index +1}. $text",
+                    style: TextStyle(color: getTheRightColor(), fontSize: 16),
+                  ),
                 ),
                 Container(
                   height: 24,
                   width: 24,
                   decoration: BoxDecoration(
-                    color: getTheRightColor() == GrayColor ? Colors.transparent : getTheRightColor(),
+                    color: getTheRightColor() == Colors.grey ? Colors.transparent : getTheRightColor(),
                     borderRadius: BorderRadius.circular(50),
                     border: Border.all(color: getTheRightColor())
                   ),
-                  child: getTheRightIcon() == GrayColor ? null : Icon(getTheRightIcon(), size: 16)
+                  child: getTheRightIcon() == Colors.grey ? null : Icon(getTheRightIcon(), size: 16)
                 )
               ],
             ),

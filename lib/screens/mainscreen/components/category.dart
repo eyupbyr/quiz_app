@@ -3,7 +3,6 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/settings_controller.dart';
 import 'package:quiz_app/db/dao/question_dao.dart';
-import 'package:quiz_app/screens/quizscreen/quiz_screen.dart';
 import 'package:quiz_app/screens/settingsscreen/settings_screen.dart';
 
 class Category extends StatelessWidget {
@@ -28,7 +27,7 @@ class Category extends StatelessWidget {
             Get.to(() => SettingsScreen(questionDao));
           },
           child: Container(
-            width: 260,
+            width: 250,
             decoration: BoxDecoration(
               color: Colors.grey.withOpacity(0.25),
               borderRadius: BorderRadius.all(Radius.circular(40))
@@ -67,7 +66,7 @@ class RightCategory extends StatelessWidget {
             ],
           ),
           SizedBox(width: 10,),
-          SvgPicture.asset("assets/icons/${categoryName}.svg", height: 90, width: 90,),
+          SvgPicture.asset("assets/icons/${categoryName}.svg", height: 75, width: 75,),
         ],
       ),
     );
@@ -89,7 +88,7 @@ class LeftCategory extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.start,
         children: [
-          SvgPicture.asset("assets/icons/${categoryName}.svg", height: 90, width: 90,),
+          SvgPicture.asset("assets/icons/${categoryName}.svg", height: 75, width: 75,),
           SizedBox(width: 10,),
           Column(
             mainAxisSize: MainAxisSize.min,

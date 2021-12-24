@@ -37,7 +37,6 @@ class _QuizScreenState extends State<QuizScreen> {
                 if (!snapshot.hasData) return Container();
                 
                 final questions = snapshot.data;
-                _questionController.questionCount = questions.length;
                 _questionController.quizQuestions = questions;
 
                 return Column(
@@ -59,7 +58,7 @@ class _QuizScreenState extends State<QuizScreen> {
                           controller: _questionController.pageController,
                           onPageChanged: _questionController.updateQuestionNumber,
                           physics: NeverScrollableScrollPhysics(),
-                          itemCount: _questionController.questionCount,
+                          itemCount: _questionController.quizQuestions.length,
                           itemBuilder: (context, index) => QuestionCard(question: questions[index]),
                         ),
                       ),

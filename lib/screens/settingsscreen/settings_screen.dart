@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
-import 'package:quiz_app/controllers/question_controller.dart';
 import 'package:quiz_app/controllers/settings_controller.dart';
 import 'package:quiz_app/db/dao/question_dao.dart';
-import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 import 'package:quiz_app/screens/quizscreen/quiz_screen.dart';
-
-import '../../constants.dart';
 
 class SettingsScreen extends StatelessWidget {
   final QuestionDao questionDao;
@@ -15,8 +11,6 @@ class SettingsScreen extends StatelessWidget {
   
   @override
   Widget build(BuildContext context) {
-    //QuestionController _questionController = Get.put(QuestionController());
-    //SettingsController _settingsController = Get.put(SettingsController());
     return GetBuilder<SettingsController>(
       init: SettingsController(),
       builder: (settingsController) {
@@ -86,7 +80,7 @@ class SettingsScreen extends StatelessWidget {
                             height: 2,
                             color: Colors.white,
                           ),
-                          items: <String>['15', '30', '45','60']
+                          items: <String>['10', '15', '30','60']
                             .map<DropdownMenuItem<String>>((String value) {
                             return DropdownMenuItem<String>(
                               value: value,
@@ -134,7 +128,7 @@ class SettingsScreen extends StatelessWidget {
                           color: Colors.blueGrey,
                           borderRadius: BorderRadius.all(Radius.circular(500))
                         ),
-                        child: ElevatedButton(onPressed: () { Get.to(() => QuizScreen(questionDao));}, child: Text("Play"),
+                        child: ElevatedButton(onPressed: () { Get.to(() => QuizScreen(questionDao));}, child: Text("Play", style: TextStyle(fontSize: 22),),
                         )
                       ),
                     ),

@@ -2,10 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
-import 'package:quiz_app/controllers/settings_controller.dart';
-import 'package:quiz_app/db/dao/question_dao.dart';
-import 'package:quiz_app/screens/mainscreen/main_screen.dart';
-import 'package:quiz_app/screens/quizscreen/quiz_screen.dart';
 
 import '../../constants.dart';
 import 'components/answer_info.dart';
@@ -27,7 +23,7 @@ class AnswerScreen extends StatelessWidget {
               child: Column(
                 children: [
                   Text(
-                    "Score ${(_questionController.correctAnswerCount / _questionController.questionCount * 100).toStringAsFixed(2)}%",
+                    "Score ${(_questionController.correctAnswerCount / _questionController.quizQuestions.length * 100).toStringAsFixed(2)}%",
                     style: Theme.of(context).textTheme.headline4!.copyWith(color: SecondaryColor, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(height: 30,),

@@ -16,18 +16,6 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   late PageController _pageController;
   PageController get pageController => this._pageController;
 
-  //these will be taken as input
-  late int _questionCount;
-  int get questionCount => this._questionCount;
-  void set questionCount(int value) => this._questionCount = value; 
-
-  late int _countdownSeconds;
-  int get countdownSeconds => this._countdownSeconds;
-
-  late String _difficulty;
-  String get difficulty => this._difficulty;
-  //-----------------------------------------------------
-
   RxInt _questionNumber = 1.obs;
   RxInt get questionNumber => this._questionNumber;
 
@@ -52,7 +40,7 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
   late List<String> _givenAnswers;
   List<String> get givenAnswers => this._givenAnswers;
   void set givenAnswers(List<String> value) => this._givenAnswers = value;
-
+  
 
   late QuestionDao _questionDao;
   QuestionDao get questionDao => this._questionDao;
@@ -72,12 +60,11 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
     //start the countdown animation  
     _animationController.forward().whenComplete(()
-      {
-        _selectedAnswer = "-";
-        givenAnswers.add(_selectedAnswer); // add empty answer to the list because question is not answered
-        nextQuestion();
-      }); //if the counter completed before answering the question
-                                                                //go to next question
+    {
+      _selectedAnswer = "-";
+      givenAnswers.add(_selectedAnswer); // add empty answer to the list because question is not answered
+      nextQuestion(); //if the counter is completed before answering the question go to the next question
+    });
 
     _pageController = PageController();
     _givenAnswers = [];
@@ -110,7 +97,7 @@ class QuestionController extends GetxController with GetSingleTickerProviderStat
 
   void nextQuestion() {
     //if the question is not the last question
-    if (_questionNumber.value != _questionCount) {
+    if (_questionNumber.value != _quizQuestions.length) {
       _pageController.nextPage(
           duration: Duration(milliseconds: 500), curve: Curves.ease);
 

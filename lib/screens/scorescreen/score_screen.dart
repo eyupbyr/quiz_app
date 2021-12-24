@@ -3,7 +3,6 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
 import 'package:quiz_app/screens/answerscreen/answer_screen.dart';
-import 'package:quiz_app/screens/mainscreen/main_screen.dart';
 
 import '../../constants.dart';
 
@@ -27,13 +26,13 @@ class ScoreScreen extends StatelessWidget {
                 ),
                 Spacer(flex: 2,),
                 Text(
-                  "${(_questionController.correctAnswerCount / _questionController.questionCount * 100).toStringAsFixed(2)}%",
+                  "${(_questionController.correctAnswerCount / _questionController.quizQuestions.length * 100).toStringAsFixed(2)}%",
                   style: Theme.of(context).textTheme.headline4!.copyWith(color: SecondaryColor),
                   textAlign: TextAlign.center,
                 ),
                 Spacer(flex: 1,),
                 Text(
-                  "You answered ${_questionController.correctAnswerCount} correct from ${_questionController.questionCount} questions.",
+                  "You answered ${_questionController.correctAnswerCount} correct from ${_questionController.quizQuestions.length} questions.",
                   style: Theme.of(context).textTheme.headline5!.copyWith(color: SecondaryColor),
                   textAlign: TextAlign.center,
                 ),
@@ -42,7 +41,7 @@ class ScoreScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     InkWell(
-                      onTap: () => {_questionController.resetEverything()},//_questionController.resetEverything(), //change here
+                      onTap: () => {_questionController.resetEverything()},
                       child: Container(
                         height: 85,
                         width: 135,

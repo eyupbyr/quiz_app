@@ -1,9 +1,5 @@
-import 'package:flutter/animation.dart';
-import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:quiz_app/models/Questions.dart';
-import 'package:quiz_app/screens/mainscreen/main_screen.dart';
-import 'package:quiz_app/screens/scorescreen/score_screen.dart';
+
 
 class SettingsController extends GetxController {
 

@@ -5,7 +5,6 @@ import 'package:flutter/services.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:quiz_app/db/database.dart';
 import 'package:quiz_app/screens/mainscreen/main_screen.dart';
-import 'package:quiz_app/screens/quizscreen/quiz_screen.dart';
 
 import 'db/dao/question_dao.dart';
 import 'models/Questions.dart';
